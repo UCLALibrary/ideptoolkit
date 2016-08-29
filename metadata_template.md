@@ -1,2 +1,0 @@
-# The metadata template
-
