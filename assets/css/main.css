@@ -1694,7 +1694,7 @@
 		font-size: 2.75em;
 		font-weight: 700;
 		line-height: 1.3;
-		margin: 0 0 1em 0;
+		margin: 0 0 0 0;
 		letter-spacing: -0.035em;
 	}
 
@@ -2853,7 +2853,7 @@
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 4em 0 0.1em 0 ;
 	}
 
 		#header .logo {
