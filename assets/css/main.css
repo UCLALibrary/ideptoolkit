@@ -1896,12 +1896,12 @@
 			}
 
 			.icon.style2:hover {
-				color: 	#808080;
-				border-color: #808080;
+				color: 	#C0C0C0;
+				border-color: #C0C0C0;
 			}
 
 			.icon.style2:active {
-				background-color: rgba(128, 128, 128, 0.1);
+				background-color: rgba(192, 192, 192, 0.1);
 			}
 
 /* List */
@@ -2730,15 +2730,15 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: grayscale();
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #808080;
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: invert();
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style4 > .image:before {
