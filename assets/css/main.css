@@ -2730,7 +2730,7 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #808080;
+				background-color: grayscale();
 			}
 
 			.tiles article.style2 > .image:before {
