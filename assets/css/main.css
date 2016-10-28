@@ -2738,7 +2738,7 @@
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #808080
+				background-color: invert();
 			}
 
 			.tiles article.style4 > .image:before {
