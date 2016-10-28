@@ -2730,7 +2730,8 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #C0C0C0;
+				background-image: images/index01.jpg;
+				-webkit-filter: invert();
 			}
 
 			.tiles article.style2 > .image:before {
