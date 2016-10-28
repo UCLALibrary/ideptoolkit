@@ -2730,7 +2730,7 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-image: url("https://github.com/dnoneill/ideptoolkit/images/index01.jpg");
+				background-image: url("https://raw.githubusercontent.com/dnoneill/ideptoolkit/gh-pages/images/index01.jpg");
 			}
 
 			.tiles article.style2 > .image:before {
