@@ -1902,6 +1902,7 @@
 
 			.icon.style2:active {
 				background-color: rgba(192, 192, 192, 0.1);
+				background-image: url("https://raw.githubusercontent.com/dnoneill/ideptoolkit/gh-pages/images/index01.jpg");
 			}
 
 /* List */
@@ -2736,7 +2737,7 @@
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #C0C0C0;
+				background-image: url("https://raw.githubusercontent.com/dnoneill/ideptoolkit/gh-pages/images/index01.jpg");
 			}
 
 			.tiles article.style3 > .image:before {
