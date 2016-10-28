@@ -2738,7 +2738,9 @@
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #9e9e9e;
+				background-color: #f00;
+    				-webkit-filter: invert(100%);
+    				filter: invert(100%);
 			}
 
 			.tiles article.style4 > .image:before {
