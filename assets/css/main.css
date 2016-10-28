@@ -1896,12 +1896,12 @@
 			}
 
 			.icon.style2:hover {
-				color: #00FFFF;
-				border-color: #00FFFF;
+				color: 	#808080;
+				border-color: #808080;
 			}
 
 			.icon.style2:active {
-				background-color: rgba(0, 255, 255, 0.1);
+				background-color: rgba(128, 128, 128, 0.1);
 			}
 
 /* List */
@@ -2734,7 +2734,7 @@
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #00FFFF;
+				background-color: #808080;
 			}
 
 			.tiles article.style3 > .image:before {
