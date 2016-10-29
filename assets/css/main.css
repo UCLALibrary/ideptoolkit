@@ -2731,13 +2731,11 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-image: url("https://raw.githubusercontent.com/dnoneill/ideptoolkit/gh-pages/images/index01.jpg");
-				-webkit-filter: grayscale(100%);
-    				filter: grayscale(100%);
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-image: url("https://raw.githubusercontent.com/dnoneill/ideptoolkit/gh-pages/images/index01.jpg");
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style3 > .image:before {
