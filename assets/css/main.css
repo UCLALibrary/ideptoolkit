@@ -2733,6 +2733,7 @@
 					}
 
 			.tiles article.style1 > .image:before {	
+				background-image: .image:before
 			}
 
 			.tiles article.style2 > .image:before {
