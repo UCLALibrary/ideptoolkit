@@ -2641,6 +2641,8 @@
 					opacity: 1.0;
 					z-index: 1;
 					opacity: 0.8;
+					-webkit-filter: grayscale(100%);
+					filter: grayscale(100%);
 				}
 
 				.tiles article > .image:after {
@@ -2730,8 +2732,7 @@
 						margin-bottom: 0;
 					}
 
-			.tiles article.style1 > .image:before {
-				background-color: #C0C0C0;	
+			.tiles article.style1 > .image:before {	
 			}
 
 			.tiles article.style2 > .image:before {
