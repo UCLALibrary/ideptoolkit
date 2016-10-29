@@ -1896,12 +1896,13 @@
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: 	#C0C0C0;
+				border-color: #C0C0C0;
 			}
 
 			.icon.style2:active {
-				background-color: rgba(242, 132, 158, 0.1);
+				background-color: rgba(192, 192, 192, 0.1);
+				background-image: url("https://raw.githubusercontent.com/dnoneill/ideptoolkit/gh-pages/images/index01.jpg");
 			}
 
 /* List */
@@ -2640,6 +2641,8 @@
 					opacity: 1.0;
 					z-index: 1;
 					opacity: 0.8;
+					-webkit-filter: grayscale(100%);
+					filter: grayscale(100%);
 				}
 
 				.tiles article > .image:after {
@@ -2729,16 +2732,15 @@
 						margin-bottom: 0;
 					}
 
-			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+			.tiles article.style1 > .image:before {	
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #C0C0C0;
 			}
 
 			.tiles article.style4 > .image:before {
