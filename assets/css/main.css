@@ -2732,8 +2732,8 @@
 
 			.tiles article.style1 > .image:before {
 				-webkit-filter: grayscale(100%);
-    				filter: grayscale(100%);
 				background-image: .image;
+				background-image-filter: grayscale(100%);
 			}
 
 			.tiles article.style2 > .image:before {
