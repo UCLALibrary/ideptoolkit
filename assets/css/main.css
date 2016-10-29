@@ -2731,7 +2731,7 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #C0C0C0;
+				background-image: .image;
 			}
 
 			.tiles article.style2 > .image:before {
