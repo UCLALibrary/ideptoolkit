@@ -2733,12 +2733,12 @@
 					}
 
 			.tiles article.style1 > .image:before {	
-				background-image: inherit;
+				background-color: #727282;
 
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #727282;
+				background-color: #ff0000;
 			}
 
 			.tiles article.style3 > .image:before {
