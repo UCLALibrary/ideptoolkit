@@ -9,7 +9,7 @@ title: IDEP Partners Toolkit
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl: /ideptoolkit-v2
+baseurl: /ideptoolkit
 
 # A very short description of your page
 tagline: A guide to standards and workflows for IDEP partner institutions.
@@ -25,7 +25,7 @@ author:
   email: <dlp@library.ucla.edu>
 
 # Fallback image and color
-image: /ideptoolkit-v2/assets/img/nav.jpg
+image: /ideptoolkit/assets/img/nav.jpg
 color: '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
