@@ -5,24 +5,12 @@ menu: true
 order: 3
 ---
 
-Name Authorities:
-
-* [Virtual International Authority File](https://viaf.org) (VIAF)
-* [Library of Congress Name Authority File](http://authorities.loc.gov) (LCNAF)
-* [Union List of Artists’ Names](http://www.getty.edu/research/tools/vocabularies/ulan/) (ULAN)
-
-Descriptive Standards:
-
-* Anglo-American Cataloguing Rules (AACR2)
-* Cataloging Cultural Objects (CCO)
-* Describing Archives: a Content Standard (DACS)
-
-## 1. Title (Required)
+### 1. Title (Required)
 ##### DEFINITION:
 
 A word, phrase, character or group of characters that names the resource being described.
 
-#### GUIDELINES for creating values for the TITLE element
+##### GUIDELINES for creating values for the TITLE element
 
 Titles may be **transcribed**  or **supplied**. A transcribed title appears on the resource. If there is no title inscribed on the resource, a title may be constructed by the metadata contributor, supplied by the creator or the owning institution, or taken from a reference work or another reliable source. It is not necessary to supply square brackets to signify that a supplied title was not taken from the resource.
 
@@ -37,36 +25,36 @@ EXAMPLES
 * 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains [supplied]
 ```
 
-## 2. Filename & Identifiers
-#### Filename (Required)
+### 2. Filename & Identifiers
+##### Filename (Required)
 
-The filename of the object (ex. arce_0001.tiff) is recorded in the "**Filename**" field. For file naming best practices, see the the "[File Naming & Organization Guide](https://uclalibrary.github.io/ideptoolkit/filenaming.html)."
+The filename of the object (ex. `arce_0001.tiff`) is recorded in the "**Filename**" field. For file naming best practices, see the the "[File Naming & Organization Guide](https://uclalibrary.github.io/ideptoolkit/filenaming.html)."
 
-#### Identifier
+##### Identifier
 
 An **Identifier** is a universal identifier such as ISBN, ISSN, DOI, or an OCLC number.
 
-#### Local ID (Recommended)
+##### Local ID (Recommended)
 
-A **Local ID** is any identifier assigned locally. This can be a shelf-mark, item or catalog number, or in some cases the filename without the extension (ex. arce_0001).
+A **Local ID** is any identifier assigned locally. This can be a shelf-mark, item or catalog number, or in some cases the filename without the extension (ex. `arce_0001`).
 
-## 3. Creator / Contributor
+### 3. Creator / Contributor
 
 The **CREATOR** element is **required** (if known), while the CONTRIBUTOR element is recommended.
 
-#### DEFINITION:
+##### DEFINITION:
 
 CREATOR: The entity or entities primarily responsible for making the content of the resource (i.e. author, photographer, artist, etc). This element is required if the creator of a resource is known.
 
 CONTRIBUTOR: Those responsible for making contributions to the intellectual or artistic content, or the physical production and dissemination, of the resource (i.e. publisher, translator, editor, distributor, etc.).
 
-#### GUIDELINES for creating values for the CREATOR and CONTRIBUTOR elements
+##### GUIDELINES for creating values for the CREATOR and CONTRIBUTOR elements
 
-It is preferred to take the creator or contributor's name from a standard naming authority file. For IDEP collections, the preferred authority is the [Virtual International Authority File](https://viaf.org) (VIAF). If the name is not found in VIAF, other authority files, such as the Library of Congress Name Authority File (LCNAF), Union List of Artists’ Names (ULAN), or another national authority can be used. If a name does not appear in an authority file, you may establish it in the spreadsheet using the form 'LASTname, FIRSTname'.
+It is preferred to take the creator or contributor's name from a standard naming authority file. For IDEP collections, the preferred authority is the [Virtual International Authority File](https://viaf.org) (VIAF). If the name is not found in VIAF, other authority files, such as the Library of Congress Name Authority File (LCNAF), Union List of Artists’ Names (ULAN), or another national authority can be used. If a name does not appear in an authority file, you may establish it in the spreadsheet using the form `LASTname, FIRSTname`.
 
 In the **Authority** column, indicate the code for the authority source from which the name was taken (VIAF, LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "**local**".
 
-In the case of multiple creators and/or contributors (of the same type), enter each name separated by " / " in the cell. For multiple contributor types (1 editor, 1 translator), enter the names into separate CONTRIBUTOR columns. Contributor columns must be qualified to indicate the role played (i.e. publisher, editor, etc.). There are a few options available in the template pull-down menu. If these do not accurately reflect the role, you may consult the [MARC Code List: Relator codes](https://www.loc.gov/marc/relators/relaterm.html) or the [ULAN role table](http://www.getty.edu/vow/ULANRolePopup).
+In the case of multiple creators and/or contributors (of the same type), enter each name separated by `/` in the cell. For multiple contributor types (1 editor, 1 translator), enter the names into separate CONTRIBUTOR columns. Contributor columns must be qualified to indicate the role played (i.e. publisher, editor, etc.). There are a few options available in the template pull-down menu. If these do not accurately reflect the role, you may consult the [MARC Code List: Relator codes](https://www.loc.gov/marc/relators/relaterm.html) or the [ULAN role table](http://www.getty.edu/vow/ULANRolePopup).
 
 If CREATOR is unknown, metadata contributors are strongly encouraged to make use of the **CONTRIBUTOR** element.
 
@@ -82,21 +70,19 @@ EXAMPLES (Contributor)
 * Dickinson, John [designer, from ULAN]
 ```
 
-#### Other Standards and Guidelines
-
-Name Authority Files:
+##### Standards and Guidelines
 
 * [Virtual International Authority File](https://viaf.org) (VIAF) - **Preferred**
 * [Library of Congress Name Authority File](http://authorities.loc.gov) (LCNAF)
 * [Union List of Artists’ Names](http://www.getty.edu/research/tools/vocabularies/ulan/) (ULAN)
 
-## 4. Publisher place (Recommended)
+### 4. Publisher place (Recommended)
 
-#### DEFINITION:
+##### DEFINITION:
 
 The name of the place where a resource has been published. (The name of the publisher itself is recorded in the **Contributor** element.)
 
-#### GUIDELINES for creating values for the PUBLISHER PLACE element
+##### GUIDELINES for creating values for the PUBLISHER PLACE element
 
 The form of the place name should be taken from the object. When the object does not provide a place, use a standard naming authority file, such as the Thesaurus of Geographic Names (TGN) or the Library of Congress Name Authority file (LCNAF).
 
@@ -106,18 +92,18 @@ EXAMPLES
 * Copenhagen [from TGN (preferred name in English)]
 ```
 
-#### Standards and Guidelines
+##### Standards and Guidelines
 
 * [Thesaurus of Geographic Names (TGN)](http://www.w3.org/TR/NOTE-datetime)
 * [Library of Congress Name Authority file (LCNAF](http://authorities.loc.gov))
 
-## 5. Date (Required)
+### 5. Date (Required)
 
-#### DEFINITION:
+##### DEFINITION:
 
 A point or period of time associated with an event in the life cycle of the resource (e.g., creation, publication, printing, restoration, etc. ).
 
-#### GUIDELINES for creating values for the DATE element
+##### GUIDELINES for creating values for the DATE element
 
 Date information can be derived from the resource itself, or any reliable source, such as documentation related to the resource, etc. Where exact dates are unknown, metadata contributors should provide a range of possible dates for the resource, such as the decade or century in which it was created or published. Use the Description element to describe uncertainty when necessary.
 
@@ -125,10 +111,10 @@ When multiple types of dates are associated with a resource and not all of them 
 
 Metadata contributors should provide dates to an appropriate level of specificity for the resource. If an exact date or time for the resource is known, it should be provided.
 
-#### Dates must be provided in two formats:
+##### Dates must be provided in two formats:
 
-* **Display date:** suitable for display, i.e. "August 26, 2016"
-* **Normalized date:** allows for machine processing (e.g. search limiting, results sorting). The normalized date follows the format YYYY-MM-DD - for example, "2016-08-26".
+* **Display date:** suitable for display, i.e. `August 26, 2016`
+* **Normalized date:** allows for machine processing (e.g. search limiting, results sorting). The normalized date follows the format `YYYY-MM-DD` - for example, `2016-08-26`.
 
 | Examples | Display date | Normalized date |
 | -- | -- | -- |
@@ -139,15 +125,15 @@ Metadata contributors should provide dates to an appropriate level of specificit
 | Century | 19th century | 1801/1900 |
 | Estimated date | July or August 1991 | 1991-07/1991-08 |
 
-#### Standards and Guidelines
+##### Standards and Guidelines
 * [W3C: Date and time formats](http://www.w3.org/TR/NOTE-datetime)
 
-## 6. Language (Required)
-#### DEFINITION:
+### 6. Language (Required)
+##### DEFINITION:
 
 A designation of the language in which the content of the resource is expressed, or which is primary to understanding the resource. (Note: Not the language of the metadata record itself.)
 
-#### GUIDELINES for creating values for the LANGUAGE element
+##### GUIDELINES for creating values for the LANGUAGE element
 
 Use the ISO 639-3 code for the language of the resource (see below).
 
@@ -158,16 +144,16 @@ EXAMPLES
 * eng [English]
 * jpn [Japanese]
 ```
-#### Other Standards and Guidelines
+##### Other Standards and Guidelines
 * [Codes for the representation of names of languages (ISO 639-3)](https://www.loc.gov/standards/iso639-2/php/code_list.php)
 
-## 7. Type (Required)
+### 7. Type (Required)
 
-#### DEFINITION:
+##### DEFINITION:
 
 The nature or genre of the content of the resource. To describe the file format, physical medium, or dimensions of the resource, use the Physical Description element.
 
-#### GUIDELINES for creating values for the TYPE element
+##### GUIDELINES for creating values for the TYPE element
 
 _Always include qualifiers for this element._
 
@@ -187,9 +173,8 @@ Required qualifiers:
 
 **Type.genre** – A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in Type.typeOfResource. Use a controlled vocabulary (Art & Architecture Thesaurus Online (AAT) preferred) where possible; otherwise identify the term as a local heading.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Type.collection: yes Type.manuscript: yes [Record for a collection of digitized manuscripts.]
 * Type.collection: yes Type.manuscript: no [Record for a collection of digitized posters.]
 * Type.collection: no Type.manuscript: yes [Record for a single digitized document (on its own, or as part of a larger collection).]
@@ -210,13 +195,13 @@ For **Type.genre:**
 * Rare Books and Manuscripts Section Controlled Vocabularies (RBMS)
 * Thesaurus for Graphic Materials (TGM)
 
-## 8. Physical Description
+### 8. Physical Description
 
-#### DEFINITION:
+##### DEFINITION:
 
 The physical medium, extent, or dimensions of the resource. This element is known in some metadata schemas as "format."
 
-#### GUIDELINES for creating values for the PHYSICAL DESCRIPTION element
+##### GUIDELINES for creating values for the PHYSICAL DESCRIPTION element
 
 The Physical Description element may be used to record information about the resource: extent, dimensions, and medium.
 
@@ -226,53 +211,40 @@ The Physical Description element may be used to record information about the res
 
 **PhysicalDescription.medium** (Recommended) -- The material or physical carrier of the resource (i.e. the materials of which the resource is composed).
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * PhysicalDescription.extent: 1 postcard
 * PhysicalDescription.dimensions: 61 x 43 cm. (24 x 17 in.) [poster]
 * PhysicalDescription.extent: 95 min. [film]
 * PhysicalDescription.dimensions: 161.5 cm. (circumference, sphere) [globe]
 * PhysicalDescription.medium: pen and ink on paper
 ```
-**Other Standards and Guidelines**
 
-* Anglo-American Cataloguing Rules (AACR2)
-* Cataloging Cultural Objects (CCO)
-* Describing Archives: a Content Standard (DACS)
-* National Institute of Standards and Technology General Tables of Units of Measurement
+### 9. Institution/Repository (Required)
 
-## 9. Institution/Repository (Required)
-
-#### DEFINITION:
+##### DEFINITION:
 
 The name of the repository where the resource is currently located.
 
-#### GUIDELINES for creating values for the INSTITUTION/REPOSITORY element
+##### GUIDELINES for creating values for the INSTITUTION/REPOSITORY element
 
 Prefer taking the name from a standard naming authority file, such as the Library of Congress Name Authority File (LCNAF). If a name does not appear in an authority file, establish it according to a content standard such as Anglo-American Cataloguing Rules (AACR2), Cataloging Cultural Objects (CCO), or Describing Archives: a Content Standard (DACS).
 
 When establishing the name, indicate the code for the source from which the name was taken (LCNAF, etc.). If the name does not appear in an authority file, the source code should be "local".
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Charles E. Young Research Library. Department of Special Collections [from LCNAF]
 * Vorderasiatisches Museum (Berlin, Germany) [from LCNAF]
 ```
-**Other Standards and Guidelines**
 
-* Anglo-American Cataloguing Rules (AACR2)
-* Cataloging Cultural Objects (CCO)
-* Describing Archives: a Content Standard (DACS)
+### 10. Rights (Required)
 
-## 10. Rights (Required)
-
-#### DEFINITION:
+##### DEFINITION:
 
 Information about the creation and/or publication of a resource that is related to the intellectual property rights associated with the object.
 
-#### GUIDELINES for creating values for the RIGHTS element
+##### GUIDELINES for creating values for the RIGHTS element
 
 _Always include qualifiers for this element._
 
@@ -295,85 +267,73 @@ _Always include qualifiers for this element._
 
 **servicesContact:** Contact information for any services offered related to this item. Could be contact information for rights requests and/or requests for master images. Providing data for this qualifier (especially at the collection level is recommended to encourage and enable patrons to contact the correct unit for permission, licensing, and high-quality files.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Rights.copyrightStatus: copyrighted
 * Rights.publicationStatus: published
 * Rights.servicesContact: Doe, John
 ```
-**Other Standards and Guidelines**
 
-* CopyrightMD
-* METSRights
+### 11. Description (Recommended)
 
-## 11. Description (Recommended)
-
-#### DEFINITION:
+##### DEFINITION:
 
 An account of the content of the resource, and other descriptive information about the resource. Description may include information such as an abstract, table of contents, or a free-text account of the content.
 
-#### GUIDELINES for creating values for the DESCRIPTION element
+##### GUIDELINES for creating values for the DESCRIPTION element
 
 Use qualifiers to distinguish different types of Description (e.g. .abstract, .inscription, .note, etc.). Be judicious in using this element; important information about the resource should be captured in other elements if appropriate.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Description.note: Date on back of poster, 1997, reflects when the vendor received the copy later acquired by the UCLA Library.
 * Description.inscription: "Longhaired" Palisades High School students protest school's demand that they get hair cut. [from caption on resource.]
 ```
-**Other Standards and Guidelines**
-* Anglo-American Cataloguing Rules (AACR2)
-* Cataloging Cultural Objects (CCO)
-* Describing Archives: a Content Standard (DACS)
 
-## 12. Subject (Recommended)
+### 12. Subject (Recommended)
 
 Any of the topics or themes of a work, stated explicitly in the resource or its title or implicitly in its content. Subjects can be persons or organizations, other resources, places, or topics.
 
-#### A. Persons / organizations
+##### A. Persons / organizations
 
-#### DEFINITION:
+##### DEFINITION:
 
 Significant names (personal, corporate, family, meeting) that are the subject of, or that are represented in, on or by the resource.
 
-#### GUIDELINES for creating values for the SUBJECT element
+##### GUIDELINES for creating values for the SUBJECT element
 
 Prefer taking the name from a standard naming authority file, such as VIAF, or other sources such as the Library of Congress Name Authority File (LCNAF) or Union List of Artists’ Names (ULAN). If a name does not appear in an authority file, establish it according to a content standard such as Anglo-American Cataloguing Rules (AACR2), Cataloging Cultural Objects (CCO), or Describing Archives: a Content Standard (DACS).
 
 When establishing the name, indicate the code for the source from which the name was taken (LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "local."
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Antoniani, Pietro [artist, from ULAN]
 * Antoniani, Pietro, | d ca. 1740-1805 [artist, from LCNAF]
 * Institute without Boundaries [corporate name, from LCNAF]
 ```
-#### B. Titles
+##### B. Titles
 
-#### DEFINITION:
+##### DEFINITION:
 
 Significant titles of other resources (e.g. works, expressions of those works, individual items, etc.) that are the subject of, or that are represented in, on or by the resource.
 
-#### GUIDELINES for creating values for the SUBJECT element
+##### GUIDELINES for creating values for the SUBJECT element
 
 The form of the title should be taken from a standard naming authority file, such as the Library of Congress Name Authority File, which contains uniform titles (LCNAF). If the title does not appear in an authority file, establish the title according to a content standard such as AACR2, CCO, or DACS.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Bible. O.T. Psalms [uniform title, from LCNAF]
 * Maha bha rata [uniform title, from LCNAF]
 ```
-#### C. Place
+##### C. Place
 
-#### DEFINITION:
+##### DEFINITION:
 
 Significant names of geographic locations that are the subject of, or that are represented in, on or by the resource.
 
-#### GUIDELINES for creating values for the SUBJECT element
+##### GUIDELINES for creating values for the SUBJECT element
 The form of the place name should be taken from a standard naming authority file, for IDEP we recommend Thesaurus of Geographic Names (TGN). If the name does not appear in an authority file, establish the name according to a content standard such as AACR2 or CCO.
 
 IDEP uses a hierarchical form for place names, utilizing separate columns for:
@@ -382,44 +342,37 @@ IDEP uses a hierarchical form for place names, utilizing separate columns for:
 * **Subject.city**
 * **Subject.place** (for specific locations within a city, region, or country)
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Acequia Madre de Santa Barbara [geographic location, from TGN]  
 * Iran [country, from TGN]
 ```
 
-#### D. Topic
+##### D. Topic
 
-#### DEFINITION:
+##### DEFINITION:
 
 A description or interpretation of the topics, activities, events, ideas or objects that are the subject of, or that are represented in, on or by the resource. In the case of images, use the Subject element to capture both what the resource is about  (concept), and what it is of  (descriptive), as applicable.
 
-#### GUIDELINES for creating values for the SUBJECT element
+##### GUIDELINES for creating values for the SUBJECT element
 
 The form of the subject term should be taken from a standard subject thesaurus, such as LCSH, MeSH, AAT or TGM.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Fruit crate labels [descriptive topic, from TGM]
 * Depression (Mental state) [concept topic, from TGM]
 * Regional planning [concept topic, from LCSH]
 * antimacassars [descriptive topic, from AAT]
 ```
 
-**Other Standards and Guidelines**
+### 13. Relation (Recommended)
 
-* Cataloging Cultural Objects (CCO)
-* Subject Cataloging Manual: Subject Headings (5th Edition)
-
-## 13. Relation (Recommended)
-
-#### DEFINITION:
+##### DEFINITION:
 
 A reference to a related resource. (Note: For objects that are part of digital collections, the Relation -- between the object and the collection that it is part of -- is created automatically.)
 
-#### GUIDELINES for creating values for the RELATION element
+##### GUIDELINES for creating values for the RELATION element
 
 _This element should always be qualified._
 
@@ -427,21 +380,20 @@ Recommended best practice is to reference the resource by means of a string or n
 
 Relationships may be expressed reciprocally (if the resources on both ends of the relationship are being described) or in one direction only, even when there is a refinement available to allow reciprocity. If free text is used instead of a formal string or identifying numbers, the reference should be appropriately specific. For instance, a formal bibliographic citation might be used to point users to a particular resource.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * Relation.hasVersion: IFDC report (Spanish edition) [example of a version in another edition, language, etc.]
 * Relation.hasFormat: CD-ROM version: Health literacy. Washington, D.C. : National Academies Press, c2004.
 * Relation.derivedFrom: Michelangelo Buonarroti, 1475-1564. Creation of Adam. [example of a work inspired by this painting]
 ```
 
-## 14. Source (Recommended)
+### 14. Source (Recommended)
 
-#### DEFINITION:
+##### DEFINITION:
 
 A related resource from which the described resource is derived, in whole or in part. This element may also include information about the ownership or custodial history of the object.
 
-#### GUIDELINES for creating values for the SOURCE element
+##### GUIDELINES for creating values for the SOURCE element
 
 Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system, when possible. In general, include in this area information about a resource that is related intellectually to the described resource but does not fit easily into a Relation element.
 
@@ -449,9 +401,8 @@ Information about the location of discovery or excavation of the object should b
 
 Source will not normally be used for born digital objects.
 
-#### EXAMPLES
-
 ```
+EXAMPLES
 * BM XV cent., II, p. 346 (IB.5874)
 * Smithsonian Archives Record Unit 54, Joseph Henry Collection, 1808, 1825-1878, Box 1, Folder 6, Item 3
 ```
