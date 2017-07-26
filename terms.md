@@ -52,7 +52,7 @@ CONTRIBUTOR: Those responsible for making contributions to the intellectual or a
 
 It is preferred to take the creator or contributor's name from a standard naming authority file. For IDEP collections, the preferred authority is the [Virtual International Authority File](https://viaf.org) (VIAF). If the name is not found in VIAF, other authority files, such as the Library of Congress Name Authority File (LCNAF), Union List of Artists’ Names (ULAN), or another national authority can be used. If a name does not appear in an authority file, you may establish it in the spreadsheet using the form `LASTname, FIRSTname`.
 
-In the **Authority** column, indicate the code for the authority source from which the name was taken (VIAF, LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "**local**".
+In the **Authority** column, indicate the code for the authority source from which the name was taken (VIAF, LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "**local**."
 
 In the case of multiple creators and/or contributors (of the same type), enter each name separated by `/` in the cell. For multiple contributor types (1 editor, 1 translator), enter the names into separate CONTRIBUTOR columns. Contributor columns must be qualified to indicate the role played (i.e. publisher, editor, etc.). There are a few options available in the template pull-down menu. If these do not accurately reflect the role, you may consult the [MARC Code List: Relator codes](https://www.loc.gov/marc/relators/relaterm.html) or the [ULAN role table](http://www.getty.edu/vow/ULANRolePopup).
 
@@ -88,8 +88,8 @@ The form of the place name should be taken from the object. When the object does
 
 ```
 EXAMPLES
-* Copenhagen (Denmark) [from LCNAF]
-* Copenhagen [from TGN (preferred name in English)]
+* Copenhagen (Denmark)
+* Habana
 ```
 
 ##### Standards and Guidelines
@@ -101,7 +101,7 @@ EXAMPLES
 
 ##### DEFINITION:
 
-A point or period of time associated with an event in the life cycle of the resource (e.g., creation, publication, printing, restoration, etc. ).
+A point or period of time associated with an event in the life cycle of the resource (e.g., creation, publication, printing, restoration, etc.).
 
 ##### GUIDELINES for creating values for the DATE element
 
@@ -111,7 +111,7 @@ When multiple types of dates are associated with a resource and not all of them 
 
 Metadata contributors should provide dates to an appropriate level of specificity for the resource. If an exact date or time for the resource is known, it should be provided.
 
-##### Dates must be provided in two formats:
+##### Dates should be provided in two formats:
 
 * **Display date:** suitable for display, i.e. `August 26, 2016`
 * **Normalized date:** allows for machine processing (e.g. search limiting, results sorting). The normalized date follows the format `YYYY-MM-DD` - for example, `2016-08-26`.
@@ -171,7 +171,7 @@ Required qualifiers:
 
 **Type.typeOfResource** – The general type of content of the resource. The metadata template contains a pull-down menu of the acceptable terms (text, still image, cartographic, sound recording, moving image, etc.)
 
-**Type.genre** – A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in Type.typeOfResource. Use a controlled vocabulary (Art & Architecture Thesaurus Online (AAT) preferred) where possible; otherwise identify the term as a local heading.
+**Type.genre** – A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in Type.typeOfResource. Use a controlled vocabulary (Art & Architecture Thesaurus Online [AAT] preferred) where possible; otherwise identify the term as a local heading.
 
 ```
 EXAMPLES
@@ -179,11 +179,11 @@ EXAMPLES
 * Type.collection: yes Type.manuscript: no [Record for a collection of digitized posters.]
 * Type.collection: no Type.manuscript: yes [Record for a single digitized document (on its own, or as part of a larger collection).]
 * Type.collection: no Type.manuscript: no [Record for a single digitized poster (on its own, or as part of a larger collection).]
-* Type.typeOfResource: still image [from MODS]
-* Type.typeOfResource: sound recording [from MODS]
-* Type.genre: posters [from AAT]
-* Type.genre: Periodicals [from BGTCHM]
-* Type.genre: Spaghetti Westerns [from LCSH]
+* Type.typeOfResource: still image
+* Type.typeOfResource: sound recording
+* Type.genre: posters
+* Type.genre: Periodicals
+* Type.genre: Spaghetti Westerns
 ```
 **Other Standards and Guidelines**
 
@@ -230,12 +230,10 @@ The name of the repository where the resource is currently located.
 
 Prefer taking the name from a standard naming authority file, such as the Library of Congress Name Authority File (LCNAF). If a name does not appear in an authority file, establish it according to a content standard such as Anglo-American Cataloguing Rules (AACR2), Cataloging Cultural Objects (CCO), or Describing Archives: a Content Standard (DACS).
 
-When establishing the name, indicate the code for the source from which the name was taken (LCNAF, etc.). If the name does not appear in an authority file, the source code should be "local".
-
 ```
 EXAMPLES
-* Charles E. Young Research Library. Department of Special Collections [from LCNAF]
-* Vorderasiatisches Museum (Berlin, Germany) [from LCNAF]
+* Charles E. Young Research Library. Department of Special Collections
+* Vorderasiatisches Museum (Berlin, Germany)
 ```
 
 ### 10. Rights (Required)
@@ -265,13 +263,13 @@ _Always include qualifiers for this element._
 * unpublished
 * unknown
 
-**servicesContact:** Contact information for any services offered related to this item. Could be contact information for rights requests and/or requests for master images. Providing data for this qualifier (especially at the collection level is recommended to encourage and enable patrons to contact the correct unit for permission, licensing, and high-quality files.
+**servicesContact:** Contact information for any services offered related to this item. Could be contact information for rights requests and/or requests for master images. Providing data for this qualifier (especially at the collection level) is recommended to encourage and enable patrons to contact the correct unit for permission, licensing, and high-quality files.
 
 ```
 EXAMPLES
 * Rights.copyrightStatus: copyrighted
 * Rights.publicationStatus: published
-* Rights.servicesContact: Doe, John
+* Rights.servicesContact: Doe, John (jdoe@email.edu)
 ```
 
 ### 11. Description (Recommended)
@@ -304,13 +302,10 @@ Significant names (personal, corporate, family, meeting) that are the subject of
 
 Prefer taking the name from a standard naming authority file, such as VIAF, or other sources such as the Library of Congress Name Authority File (LCNAF) or Union List of Artists’ Names (ULAN). If a name does not appear in an authority file, establish it according to a content standard such as Anglo-American Cataloguing Rules (AACR2), Cataloging Cultural Objects (CCO), or Describing Archives: a Content Standard (DACS).
 
-When establishing the name, indicate the code for the source from which the name was taken (LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "local."
-
 ```
 EXAMPLES
-* Antoniani, Pietro [artist, from ULAN]
-* Antoniani, Pietro, | d ca. 1740-1805 [artist, from LCNAF]
-* Institute without Boundaries [corporate name, from LCNAF]
+* Antoniani, Pietro, d ca. 1740-1805
+* Institute without Boundaries
 ```
 ##### B. Titles
 
@@ -324,8 +319,8 @@ The form of the title should be taken from a standard naming authority file, suc
 
 ```
 EXAMPLES
-* Bible. O.T. Psalms [uniform title, from LCNAF]
-* Maha bha rata [uniform title, from LCNAF]
+* Bible. O.T. Psalms
+* Maha bha rata
 ```
 ##### C. Place
 
@@ -334,7 +329,7 @@ EXAMPLES
 Significant names of geographic locations that are the subject of, or that are represented in, on or by the resource.
 
 ##### GUIDELINES for creating values for the SUBJECT element
-The form of the place name should be taken from a standard naming authority file, for IDEP we recommend Thesaurus of Geographic Names (TGN). If the name does not appear in an authority file, establish the name according to a content standard such as AACR2 or CCO.
+The form of the place name should be taken from a standard naming authority file. For IDEP we recommend Thesaurus of Geographic Names (TGN). If the name does not appear in an authority file, establish the name according to a content standard such as AACR2 or CCO.
 
 IDEP uses a hierarchical form for place names, utilizing separate columns for:
 
@@ -344,8 +339,9 @@ IDEP uses a hierarchical form for place names, utilizing separate columns for:
 
 ```
 EXAMPLES
-* Acequia Madre de Santa Barbara [geographic location, from TGN]  
-* Iran [country, from TGN]
+* Subject.place: Acequia Madre de Santa Barbara
+* Subject.country: Iran
+* Subject.city: Yerevan
 ```
 
 ##### D. Topic
@@ -360,10 +356,10 @@ The form of the subject term should be taken from a standard subject thesaurus, 
 
 ```
 EXAMPLES
-* Fruit crate labels [descriptive topic, from TGM]
-* Depression (Mental state) [concept topic, from TGM]
-* Regional planning [concept topic, from LCSH]
-* antimacassars [descriptive topic, from AAT]
+* Fruit crate labels
+* Depression (Mental state)
+* Regional planning
+* antimacassars
 ```
 
 ### 13. Relation (Recommended)
@@ -376,7 +372,7 @@ A reference to a related resource. (Note: For objects that are part of digital c
 
 _This element should always be qualified._
 
-Recommended best practice is to reference the resource by means of a string or number conforming to a formal identification system, when possible.
+Recommended best practice is to reference the resource by means of a string or number conforming to a formal identification system when possible.
 
 Relationships may be expressed reciprocally (if the resources on both ends of the relationship are being described) or in one direction only, even when there is a refinement available to allow reciprocity. If free text is used instead of a formal string or identifying numbers, the reference should be appropriately specific. For instance, a formal bibliographic citation might be used to point users to a particular resource.
 
