@@ -26,7 +26,7 @@ EXAMPLES
 * 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains [supplied]
 ```
 
-### 2. Filename & Identifiers
+### 2. Filename (Required) & Identifiers
 ##### Filename (Required)
 
 The filename of the object (ex. `arce_0001.tiff`) is recorded in the "**Filename**" field. For file naming best practices, see the the "[File Naming & Organization Guide](https://uclalibrary.github.io/ideptoolkit/filenaming.html)."
@@ -39,7 +39,7 @@ An **Identifier** is a universal identifier such as ISBN, ISSN, DOI, or an OCLC 
 
 A **Local ID** is any identifier assigned locally. This can be a shelf-mark, item or catalog number, or in some cases the filename without the extension (ex. `arce_0001`).
 
-### 3. Creator / Contributor
+### 3. Creator / Contributor (Recommended)
 
 The **CREATOR** element is **required** (if known), while the CONTRIBUTOR element is recommended.
 
@@ -196,7 +196,7 @@ For **Type.genre:**
 * Rare Books and Manuscripts Section Controlled Vocabularies (RBMS)
 * Thesaurus for Graphic Materials (TGM)
 
-### 8. Physical Description
+### 8. Physical Description (Required*)
 
 ##### DEFINITION:
 
@@ -206,7 +206,7 @@ The physical medium, extent, or dimensions of the resource. This element is know
 
 The Physical Description element may be used to record information about the resource: extent, dimensions, and medium.
 
-**PhysicalDescription.extent** (Required ) -- Number of items, number of pages, or duration (length, such as seconds) of the resource. (May be the same whether referring to the original resource or the digital object.)
+**PhysicalDescription.extent** (**Required**) -- Number of items, number of pages, or duration (length, such as seconds) of the resource. (May be the same whether referring to the original resource or the digital object.)
 
 **PhysicalDescription.dimensions** (Recommended) -- The measurements of the original resource, including its size or scale.
 
@@ -384,7 +384,7 @@ EXAMPLES
 * Relation.derivedFrom: Michelangelo Buonarroti, 1475-1564. Creation of Adam. [example of a work inspired by this painting]
 ```
 
-### 14. Source (Recommended)
+### 14. Source
 
 ##### DEFINITION:
 
