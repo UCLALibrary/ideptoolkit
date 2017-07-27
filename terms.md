@@ -4,7 +4,24 @@ title: Descriptive Terms
 menu: true
 order: 3
 ---
-{:toc}
+<!-- TOC depthFrom:3 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [1. Title (Required)](#1-title-required)
+- [2. Filename (Required) & Identifiers](#2-filename-required-identifiers)
+- [3. Creator / Contributor (Recommended)](#3-creator-contributor-recommended)
+- [4. Publisher place (Recommended)](#4-publisher-place-recommended)
+- [5. Date (Required)](#5-date-required)
+- [6. Language (Required)](#6-language-required)
+- [7. Type (Required)](#7-type-required)
+- [8. Physical Description (Required*)](#8-physical-description-required)
+- [9. Institution/Repository (Required)](#9-institutionrepository-required)
+- [10. Rights (Required)](#10-rights-required)
+- [11. Description (Recommended)](#11-description-recommended)
+- [12. Subject (Recommended)](#12-subject-recommended)
+- [13. Relation (Recommended)](#13-relation-recommended)
+- [14. Source](#14-source)
+
+<!-- /TOC -->
 
 ### 1. Title (Required)
 ##### DEFINITION:
