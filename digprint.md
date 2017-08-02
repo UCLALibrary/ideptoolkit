@@ -81,16 +81,16 @@ order: 4
 * REVIEW ALL INSTRUCTION MANUALS AND DOCUMENTATION.
 * Group items to be digitized by size to avoid adjusting camera and tripod too often during capture.
 * Use a consistent, contrasting background behind materials. Ideally the background should differ in contrast to the actual materials and preferably should be black or white. This helps with auto-cropping.
-* Determine whether materials will be shot with the camera horizontal or from above using the cantilevered center column on the tripod.
+* Determine whether materials will be shot with the camera horizontally or from above using the cantilevered center column on the tripod.
 * Shoot in a space with dark walls and few windows.
 
 ### Camera & lens setup
 
 1. Review the Camera and Lens manuals before beginning.
 2. Place camera and lens on a clean surface in a dust free room.
-  a. Remove front and rear caps from lens
-  b. Remove body cap from the camera.
-  c. Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
+  * Remove front and rear caps from lens
+  * Remove body cap from the camera.
+  * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
 3. Attach lens to the camera. Align the lens Aperture/mounting Index Line with the white Lens Mounting Mark on the camera body (see Nikon D810 manual diagram, page 2, item 11).
 
 Example:
