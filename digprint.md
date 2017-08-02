@@ -86,11 +86,11 @@ order: 4
 
 ### Camera & lens setup
 
-1. Review the Camera and Lens manuals before beginning.
+1. Review the camera and lens manuals before beginning.
 2. Place camera and lens on a clean surface in a dust free room.
-  * Remove front and rear caps from lens.
-  * Remove body cap from the camera.
-  * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
+  * Remove front and rear caps from lens
+  * Remove body cap from the camera
+  * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens
 3. Attach lens to the camera. Align the lens Aperture/mounting Index Line with the white Lens Mounting Mark on the camera body (see Nikon D810 manual diagram, page 2, item 11).
 
 Example:
@@ -98,7 +98,7 @@ Example:
 ![](../assets/img/digprint/image28.jpg)
 
 **LENS SETTINGS**
-* The aperture on the lens should be set to the smallest setting (f/32 on the 60mm)
+* The aperture on the lens should be set to the smallest setting (f/32 on the 60mm).
 * Autofocus: Rotate the A-M mode ring on the lens while pressing the A-M mode ring release button, selecting A for autofocus.
 
 **CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7, for help with adjusting and finding settings as well as getting to know the camera.
@@ -132,7 +132,7 @@ Example:
 #### Set up lights
 1. Read the instructions for the Profoto B2 250 Air Location Kit and the Air Remote TTL-N.
 2. Make sure battery is charged (Charger is included in kit. Battery is located on the bottom of the pack and can be removed to charge.)
-3. Set up light stands
+3. Set up light stands.
   * Stands are reverse stands. Maintain a wide base so that they don't tip over
   * When extending light stands, extend from the bottom first before using thinner extensions
   * Use artist tape to mark stand positions. Set stands at 45 degree angles (see example)
@@ -142,12 +142,12 @@ Example:
   * Be patient.
   * The rods are meant to flex, but try not to force the rod too much.
   * Start with one rod, then move to opposite rod. Once all rods are snapped in, the soft box should fully form a square
-6. Attach soft boxes to flash heads
-  * Shimmy flash heads into speedring, close down on Speedring clamp to secure.
+6. Attach soft boxes to flash heads.
+  * Shimmy flash heads into speedring, close down on Speedring clamp to secure
 7. Check that lighting battery pack is turned off.
   * Connect flash head cords to battery pack. Note: **never plug in or unplug flash heads while battery pack is on**
   * Cords should plug in the then turn and lock
-8. Turn on battery pack
+8. Turn on battery pack.
 
 **Battery Pack Settings**
 1. Set flash power for each flash head to the same output on the lighting battery pack. Start with "8," but you may need to adjust based on test images.
@@ -155,24 +155,24 @@ Example:
 ![](../assets/img/digprint/image9.jpg)
 
 **TTL Flash Remote Setup**
-1. Attach wireless TTL flash remote to camera hot shoe, locking it into position by turning the lock ring at the base of the Air remote. Note: The hot shoe is the metal part on top of the camera body where the flash remote slides in and is mounted throughout capture, see photo below
+1. Attach wireless TTL flash remote to camera hot shoe, locking it into position by turning the lock ring at the base of the Air remote. Note: The hot shoe is the metal part on top of the camera body where the flash remote slides in and is mounted throughout capture (see photo below).
 ![](../assets/img/digprint/image3.png)
-2. Turn on flash remote using "ON" button
-3. Press "MODE" button on flash remote to set mode to "MAN" and not "TTL" in display ![](../assets/img/digprint/image27.jpg)
+2. Turn on flash remote using "ON" button.
+3. Press "MODE" button on flash remote to set mode to "MAN" and not "TTL" in display. ![](../assets/img/digprint/image27.jpg)
 4. **Note: The flash remote sometimes goes to sleep when unused from a number of minutes, just turn flash remote back on and reset mode to "MAN"**
 
 #### Set Camera Focus
-1. Use viewfinder to look at materials and adjust focus as clear as possible
+1. Use viewfinder to look at materials and adjust focus as clear as possible.
 2. Open live view on LCD display and zoom in on any text or distinguishing lines and adjust focus until they look as clear as possible. Note: You are not zooming the lens, ONLY the live view, in order to focus.
-3. Tape down focal ring so that focus does not change throughout capture, especially if shooting downward (focal rings tend to drift)
+3. Tape down focal ring so that focus does not change throughout capture, especially if shooting downward (focal rings tend to drift).
 
 #### Attach shutter release cable
 Note: Shutter release has a lock. Unlock before detaching. The shutter can be triggered with the computer when shooting tethered.
 
 #### Open laptop and Lightroom
-1. Start up and log in to laptop
-2. Connect camera to laptop via USB3 tether cable
-3. Open Lightroom
+1. Start up and log in to laptop.
+2. Connect camera to laptop via USB3 tether cable.
+3. Open Lightroom.
   * Create new catalog, name appropriately. Remember, this is a catalog in Lightroom, and it can contain multiple sessions. `Click File > Tethered Capture > Start Tethered Capture`
 ![](../assets/img/digprint/image26.jpg)
   * Lightroom will automatically find the camera in use. A box should pop up that says Nikon D810 is in use
@@ -184,7 +184,7 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 
 #### Test flash settings
 1. Take an image, ideally using the remote shutter release or button available in Lightroom so as not to create camera shake.
-2. Review image in Lightroom
+2. Review image in Lightroom.
   * Zoom into the image – are things in focus?
   * Look at Histogram – Is the image too dark or too light?
     * Histogram should be evenly distributed without too much information skewing right or left. If the hills are too far to the right, the image will appear darker than it should be, and if hills are too far to the left, the image will appear lighter than it should be.
@@ -196,16 +196,16 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 3. Reference target should be photographed straight on with the same lighting that will be used to illuminate the materials. Avoid shadows and do not obscure color swatches on target when holding target in front of materials.
 
 #### Continue taking images and checking them in Lightroom
-1. Continually compare images to corresponding histogram to ensure evenly distributed light
-2. Keep an eye on battery levels on camera, lighting battery pack, laptop and flash remote
+1. Continually compare images to corresponding histogram to ensure evenly distributed light.
+2. Keep an eye on battery levels on camera, lighting battery pack, laptop and flash remote.
 
 ### Post Capture Breakdown
 * **Never unplug flash heads from battery pack while battery pack is on**
-* Turn off battery pack and then discharge remaining power using white button on the top of battery pack
-* Keep white portion of softboxes clean and white for maximum use
+* Turn off battery pack and then discharge remaining power using white button on the top of battery pack.
+* Keep white portion of soft boxes clean and white for maximum use.
 
 ### Post Capture Processing
-During capture the images in Lightroom will be in a RAW format. The best way to implement post capture changes is to do so to the .RAW file. Once all changes/edits have been made the files can be exported in TIFF or JPEG making them more functional across applications.
+During capture, the images in Lightroom will be in a RAW format. The best way to implement post-capture changes is to do so to the RAW file. Once all changes/edits have been made, the files can be exported in TIFF or JPEG, making them more functional across applications.
 
 Processing includes the following:
 1. Cropping/Skew
@@ -239,7 +239,7 @@ The following is a simplified list of quality control checkpoints to consider du
 * Color - output color closely matches true color of the materials, correct color mode has been selected.
 * Orientation - all images are oriented correctly, no distortion or proportion irregularities.
 * No physical matter - no dirt, dust, etc. obstructing the view of the item.
-* No digital artifacts - no glare, no lens flare etc.
+* No digital artifacts - no glare, no lens flare, etc.
 * Page order - keep track of the page order while scanning and also check a sample size at the end of the scanning process.
 * Cropping - images are properly cropped (default = 1/8 inch on all sides) or per the project instructions.
 
@@ -251,7 +251,7 @@ Well-organized structures and file names make it easier to keep track of your da
 
 **Structuring Data**
 
-Think carefully about how best to structure your data from the very earliest stages of your project. This is particularly important when you have a number of collaborators, or are planning on sharing your data. Think about whether you need a deep or shallow hierarchy. **Aim for a shallow hierarchy**.
+Think carefully about how best to structure your data from the very earliest stages of your project. This is particularly important when you have a number of collaborators, or are planning on sharing your data. Think about whether you need a deep or shallow hierarchy. **Aim for a shallow hierarchy**
 
 Some examples of data structures include organization by:
 * types of data (text, images, sound files, etc.)
