@@ -88,7 +88,7 @@ order: 4
 
 1. Review the Camera and Lens manuals before beginning.
 2. Place camera and lens on a clean surface in a dust free room.
-  * Remove front and rear caps from lens
+  * Remove front and rear caps from lens.
   * Remove body cap from the camera.
   * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
 3. Attach lens to the camera. Align the lens Aperture/mounting Index Line with the white Lens Mounting Mark on the camera body (see Nikon D810 manual diagram, page 2, item 11).
@@ -101,7 +101,7 @@ Example:
 * The aperture on the lens should be set to the smallest setting (f/32 on the 60mm)
 * Autofocus: Rotate the A-M mode ring on the lens while pressing the A-M mode ring release button, selecting A for autofocus.
 
-**CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7 for help with adjusting and finding settings as well as getting to know the camera.
+**CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7, for help with adjusting and finding settings as well as getting to know the camera.
 * ISO – 100
 ![](../assets/img/digprint/image1.png)![](../assets/img/digprint/image30.png)
 * Aperture – Set from f/8 to f/11. Stopping down, aka decreasing the size of the aperture, increases the depth of field (how much of the object's depth, or distance from the camera, remains in focus). A narrower aperture can improve overall sharpness.
@@ -119,13 +119,13 @@ Example:
 * Attach the camera to the tripod with the **quick release tripod plate**. Insert the "feet" on the plate first, then lower the camera and plate at an angle until the plate snaps into position. The quick release handle will snap away from you as the camera is set in place.
 * Look through viewfinder and position tripod and camera to compose materials so that there is a small amount of extra space on all 4 sides. This allows for cropping in post processing. **⚠** NOTE: If you are using the center column of the tripod horizontally above your items, ENSURE that the tripod is securely weighted so the weight of the camera and tripod head do not cause it to tip over.
 * Camera sensor is rectangular so adjust materials to fill maximum capture area. Sometimes you may have to turn the camera or the materials to fill the frame.
-* Check that tripod is set up evenly based on level bubbles
-* The camera and the materials should be as parallel as possible to avoid distortion
+* Check that tripod is set up evenly based on level bubbles.
+* The camera and the materials should be as parallel as possible to avoid distortion.
   * Look through viewfinder to make sure materials look rectilinear, not trapezoidal
   * Use the grid view in the viewfinder
   * After image capture preview the image on the computer to confirm that the image is rectilinear and not trapezoidal
-* Use tape to make marks on the the floor where tripod legs are positioned to maintain consistency in distance
-* Attach carabiner to some sort of bag or weight and hook onto tripod (there's a ring to hook onto) so that tripod is weighed down and stable
+* Use tape to make marks on the the floor where tripod legs are positioned to maintain consistency in distance.
+* Attach carabiner to some sort of bag or weight and hook onto tripod (there's a ring to hook onto) so that tripod is weighed down and stable.
 
 ### Lighting setup
 
@@ -138,11 +138,11 @@ Example:
   * Use artist tape to mark stand positions. Set stands at 45 degree angles (see example)
 ![](../assets/img/digprint/image36.png)
 4. Attach the flash heads to light stands, taking care to ensure that the flash head is directly above one leg of the stand, to minimize the risk of tipping. Tighten flash head to light stand securely.
-5. Build Softboxes by matching rod color to colors located on Speedrings (the blue dots).
+5. Build soft boxes by matching rod color to colors located on Speedrings (the blue dots).
   * Be patient.
   * The rods are meant to flex, but try not to force the rod too much.
-  * Start with one rod, then move to opposite rod. Once all rods are snapped in the Softbox should fully form a square
-6. Attach Softboxes to flash heads
+  * Start with one rod, then move to opposite rod. Once all rods are snapped in, the soft box should fully form a square
+6. Attach soft boxes to flash heads
   * Shimmy flash heads into speedring, close down on Speedring clamp to secure.
 7. Check that lighting battery pack is turned off.
   * Connect flash head cords to battery pack. Note: **never plug in or unplug flash heads while battery pack is on**
@@ -150,8 +150,8 @@ Example:
 8. Turn on battery pack
 
 **Battery Pack Settings**
-1. Set flash power for each flash head to the same output on the lighting battery pack, start with "8" but may need to adjust based on test images
-2. Set channel on battery pack using the "Set" button. This will probably be set to "1". Any channel is fine, but will need to match the channel in the TTL Flash Remote Setup in the next step.
+1. Set flash power for each flash head to the same output on the lighting battery pack. Start with "8," but you may need to adjust based on test images.
+2. Set channel on battery pack using the "Set" button. This will probably be set to "1." Any channel is fine, but you will need to match the channel in the TTL Flash Remote Setup in the next step.
 ![](../assets/img/digprint/image9.jpg)
 
 **TTL Flash Remote Setup**
@@ -187,7 +187,7 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 2. Review image in Lightroom
   * Zoom into the image – are things in focus?
   * Look at Histogram – Is the image too dark or too light?
-    * Histogram should be evenly distributed without too much information skewing right or left, if the hills are too far to the right the image will appear darker than it should be. If hills are too far to the left the image will appear lighter than it should be.
+    * Histogram should be evenly distributed without too much information skewing right or left. If the hills are too far to the right, the image will appear darker than it should be, and if hills are too far to the left, the image will appear lighter than it should be.
     * Adjusting the output in the battery pack may be needed at this point to either provide more or less light, depending on histogram. Adjust and troubleshoot until histogram looks evenly distributed.
 
 #### Take a photo with color reference target
