@@ -264,20 +264,20 @@ For file naming conventions, see the "File Naming & Organization" Guide: [https:
 
 **Other tips**
 
-Include in the directory a `README.txt` file that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future
+Include in the directory a `README.txt` file that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future.
 
 ### Using XRITE Color Checker software to create a Digital Negative and Lightroom Color Profile
 Note: Read Me documentation that comes with software provides step by step instructions.
-1. Insert disc
-2. Install software
-3. Using Lightroom, save image containing the Color Checker Passport in view as a .DNG
-4. Open the DNG reference image in Color Checker Passport software
-5. Software will automatically find color swatches
-6. Click "Create Profile" to save,  name appropriately so that it can be recognized as a reference file
-7. Software will save as .DCP file (this is your color correction profile)
-8. Restart Lightroom to apply .DCP file
-9. Go to Develop mode in Lightroom
-10. In the side panel scroll down to Camera Calibration, in this window click the drop down menu next to "Profile"
-11. The profile you created should show up in that list, click to apply to the selected image or select all images that were shot under the same lighting condition as reference image and apply profile to all
+1. Insert disc.
+2. Install software.
+3. Using Lightroom, save image containing the Color Checker Passport in view as a .DNG.
+4. Open the DNG reference image in Color Checker Passport software.
+5. Software will automatically find color swatches.
+6. Click "Create Profile" to save.  Name appropriately so that it can be recognized as a reference file.
+7. Software will save as .DCP file (this is your color correction profile).
+8. Restart Lightroom to apply .DCP file.
+9. Go to Develop mode in Lightroom.
+10. In the side panel scroll down to Camera Calibration. In this window, click the drop down menu next to "Profile."
+11. The profile you created should show up in that list. Click to apply to the selected image. You may also select all images that were shot under the same lighting condition as reference image and apply profile to all.
 12. If the Color checker software is unavailable or unusable you can still use the color reference target to white balance the image
-13. Go to develop mode in Lightroom, under white balance click the eyedropper, use the eyedropper to select the white patch on the color reference target and it should adjust the white balance correctly
+13. Go to develop mode in Lightroom. Under white balance, click the eyedropper. Use the eyedropper to select the white patch on the color reference target and it should adjust the white balance correctly.
