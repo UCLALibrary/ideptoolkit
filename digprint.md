@@ -81,16 +81,16 @@ order: 4
 * REVIEW ALL INSTRUCTION MANUALS AND DOCUMENTATION.
 * Group items to be digitized by size to avoid adjusting camera and tripod too often during capture.
 * Use a consistent, contrasting background behind materials. Ideally the background should differ in contrast to the actual materials and preferably should be black or white. This helps with auto-cropping.
-* Determine whether materials will be shot with the camera horizontal or from above using the cantilevered center column on the tripod.
+* Determine whether materials will be shot with the camera horizontally or from above using the cantilevered center column on the tripod.
 * Shoot in a space with dark walls and few windows.
 
 ### Camera & lens setup
 
-1. Review the Camera and Lens manuals before beginning.
+1. Review the camera and lens manuals before beginning.
 2. Place camera and lens on a clean surface in a dust free room.
-  a. Remove front and rear caps from lens
-  b. Remove body cap from the camera.
-  c. Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
+  * Remove front and rear caps from lens
+  * Remove body cap from the camera
+  * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens
 3. Attach lens to the camera. Align the lens Aperture/mounting Index Line with the white Lens Mounting Mark on the camera body (see Nikon D810 manual diagram, page 2, item 11).
 
 Example:
@@ -98,10 +98,10 @@ Example:
 ![](../assets/img/digprint/image28.jpg)
 
 **LENS SETTINGS**
-* The aperture on the lens should be set to the smallest setting (f/32 on the 60mm)
+* The aperture on the lens should be set to the smallest setting (f/32 on the 60mm).
 * Autofocus: Rotate the A-M mode ring on the lens while pressing the A-M mode ring release button, selecting A for autofocus.
 
-**CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7 for help with adjusting and finding settings as well as getting to know the camera.
+**CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7, for help with adjusting and finding settings as well as getting to know the camera.
 * ISO – 100
 ![](../assets/img/digprint/image1.png)![](../assets/img/digprint/image30.png)
 * Aperture – Set from f/8 to f/11. Stopping down, aka decreasing the size of the aperture, increases the depth of field (how much of the object's depth, or distance from the camera, remains in focus). A narrower aperture can improve overall sharpness.
@@ -119,60 +119,60 @@ Example:
 * Attach the camera to the tripod with the **quick release tripod plate**. Insert the "feet" on the plate first, then lower the camera and plate at an angle until the plate snaps into position. The quick release handle will snap away from you as the camera is set in place.
 * Look through viewfinder and position tripod and camera to compose materials so that there is a small amount of extra space on all 4 sides. This allows for cropping in post processing. **⚠** NOTE: If you are using the center column of the tripod horizontally above your items, ENSURE that the tripod is securely weighted so the weight of the camera and tripod head do not cause it to tip over.
 * Camera sensor is rectangular so adjust materials to fill maximum capture area. Sometimes you may have to turn the camera or the materials to fill the frame.
-* Check that tripod is set up evenly based on level bubbles
-* The camera and the materials should be as parallel as possible to avoid distortion
+* Check that tripod is set up evenly based on level bubbles.
+* The camera and the materials should be as parallel as possible to avoid distortion.
   * Look through viewfinder to make sure materials look rectilinear, not trapezoidal
   * Use the grid view in the viewfinder
   * After image capture preview the image on the computer to confirm that the image is rectilinear and not trapezoidal
-* Use tape to make marks on the the floor where tripod legs are positioned to maintain consistency in distance
-* Attach carabiner to some sort of bag or weight and hook onto tripod (there's a ring to hook onto) so that tripod is weighed down and stable
+* Use tape to make marks on the the floor where tripod legs are positioned to maintain consistency in distance.
+* Attach carabiner to some sort of bag or weight and hook onto tripod (there's a ring to hook onto) so that tripod is weighed down and stable.
 
 ### Lighting setup
 
 #### Set up lights
 1. Read the instructions for the Profoto B2 250 Air Location Kit and the Air Remote TTL-N.
 2. Make sure battery is charged (Charger is included in kit. Battery is located on the bottom of the pack and can be removed to charge.)
-3. Set up light stands
+3. Set up light stands.
   * Stands are reverse stands. Maintain a wide base so that they don't tip over
   * When extending light stands, extend from the bottom first before using thinner extensions
   * Use artist tape to mark stand positions. Set stands at 45 degree angles (see example)
 ![](../assets/img/digprint/image36.png)
 4. Attach the flash heads to light stands, taking care to ensure that the flash head is directly above one leg of the stand, to minimize the risk of tipping. Tighten flash head to light stand securely.
-5. Build Softboxes by matching rod color to colors located on Speedrings (the blue dots).
+5. Build soft boxes by matching rod color to colors located on Speedrings (the blue dots).
   * Be patient.
   * The rods are meant to flex, but try not to force the rod too much.
-  * Start with one rod, then move to opposite rod. Once all rods are snapped in the Softbox should fully form a square
-6. Attach Softboxes to flash heads
-  * Shimmy flash heads into speedring, close down on Speedring clamp to secure.
+  * Start with one rod, then move to opposite rod. Once all rods are snapped in, the soft box should fully form a square
+6. Attach soft boxes to flash heads.
+  * Shimmy flash heads into speedring, close down on Speedring clamp to secure
 7. Check that lighting battery pack is turned off.
   * Connect flash head cords to battery pack. Note: **never plug in or unplug flash heads while battery pack is on**
   * Cords should plug in the then turn and lock
-8. Turn on battery pack
+8. Turn on battery pack.
 
 **Battery Pack Settings**
-1. Set flash power for each flash head to the same output on the lighting battery pack, start with "8" but may need to adjust based on test images
-2. Set channel on battery pack using the "Set" button. This will probably be set to "1". Any channel is fine, but will need to match the channel in the TTL Flash Remote Setup in the next step.
+1. Set flash power for each flash head to the same output on the lighting battery pack. Start with "8," but you may need to adjust based on test images.
+2. Set channel on battery pack using the "Set" button. This will probably be set to "1." Any channel is fine, but you will need to match the channel in the TTL Flash Remote Setup in the next step.
 ![](../assets/img/digprint/image9.jpg)
 
 **TTL Flash Remote Setup**
-1. Attach wireless TTL flash remote to camera hot shoe, locking it into position by turning the lock ring at the base of the Air remote. Note: The hot shoe is the metal part on top of the camera body where the flash remote slides in and is mounted throughout capture, see photo below
+1. Attach wireless TTL flash remote to camera hot shoe, locking it into position by turning the lock ring at the base of the Air remote. Note: The hot shoe is the metal part on top of the camera body where the flash remote slides in and is mounted throughout capture (see photo below).
 ![](../assets/img/digprint/image3.png)
-2. Turn on flash remote using "ON" button
-3. Press "MODE" button on flash remote to set mode to "MAN" and not "TTL" in display ![](../assets/img/digprint/image27.jpg)
+2. Turn on flash remote using "ON" button.
+3. Press "MODE" button on flash remote to set mode to "MAN" and not "TTL" in display. ![](../assets/img/digprint/image27.jpg)
 4. **Note: The flash remote sometimes goes to sleep when unused from a number of minutes, just turn flash remote back on and reset mode to "MAN"**
 
 #### Set Camera Focus
-1. Use viewfinder to look at materials and adjust focus as clear as possible
+1. Use viewfinder to look at materials and adjust focus as clear as possible.
 2. Open live view on LCD display and zoom in on any text or distinguishing lines and adjust focus until they look as clear as possible. Note: You are not zooming the lens, ONLY the live view, in order to focus.
-3. Tape down focal ring so that focus does not change throughout capture, especially if shooting downward (focal rings tend to drift)
+3. Tape down focal ring so that focus does not change throughout capture, especially if shooting downward (focal rings tend to drift).
 
 #### Attach shutter release cable
 Note: Shutter release has a lock. Unlock before detaching. The shutter can be triggered with the computer when shooting tethered.
 
 #### Open laptop and Lightroom
-1. Start up and log in to laptop
-2. Connect camera to laptop via USB3 tether cable
-3. Open Lightroom
+1. Start up and log in to laptop.
+2. Connect camera to laptop via USB3 tether cable.
+3. Open Lightroom.
   * Create new catalog, name appropriately. Remember, this is a catalog in Lightroom, and it can contain multiple sessions. `Click File > Tethered Capture > Start Tethered Capture`
 ![](../assets/img/digprint/image26.jpg)
   * Lightroom will automatically find the camera in use. A box should pop up that says Nikon D810 is in use
@@ -184,10 +184,10 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 
 #### Test flash settings
 1. Take an image, ideally using the remote shutter release or button available in Lightroom so as not to create camera shake.
-2. Review image in Lightroom
+2. Review image in Lightroom.
   * Zoom into the image – are things in focus?
   * Look at Histogram – Is the image too dark or too light?
-    * Histogram should be evenly distributed without too much information skewing right or left, if the hills are too far to the right the image will appear darker than it should be. If hills are too far to the left the image will appear lighter than it should be.
+    * Histogram should be evenly distributed without too much information skewing right or left. If the hills are too far to the right, the image will appear darker than it should be, and if hills are too far to the left, the image will appear lighter than it should be.
     * Adjusting the output in the battery pack may be needed at this point to either provide more or less light, depending on histogram. Adjust and troubleshoot until histogram looks evenly distributed.
 
 #### Take a photo with color reference target
@@ -196,16 +196,16 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 3. Reference target should be photographed straight on with the same lighting that will be used to illuminate the materials. Avoid shadows and do not obscure color swatches on target when holding target in front of materials.
 
 #### Continue taking images and checking them in Lightroom
-1. Continually compare images to corresponding histogram to ensure evenly distributed light
-2. Keep an eye on battery levels on camera, lighting battery pack, laptop and flash remote
+1. Continually compare images to corresponding histogram to ensure evenly distributed light.
+2. Keep an eye on battery levels on camera, lighting battery pack, laptop and flash remote.
 
 ### Post Capture Breakdown
 * **Never unplug flash heads from battery pack while battery pack is on**
-* Turn off battery pack and then discharge remaining power using white button on the top of battery pack
-* Keep white portion of softboxes clean and white for maximum use
+* Turn off battery pack and then discharge remaining power using white button on the top of battery pack.
+* Keep white portion of soft boxes clean and white for maximum use.
 
 ### Post Capture Processing
-During capture the images in Lightroom will be in a RAW format. The best way to implement post capture changes is to do so to the .RAW file. Once all changes/edits have been made the files can be exported in TIFF or JPEG making them more functional across applications.
+During capture, the images in Lightroom will be in a RAW format. The best way to implement post-capture changes is to do so to the RAW file. Once all changes/edits have been made, the files can be exported in TIFF or JPEG, making them more functional across applications.
 
 Processing includes the following:
 1. Cropping/Skew
@@ -239,7 +239,7 @@ The following is a simplified list of quality control checkpoints to consider du
 * Color - output color closely matches true color of the materials, correct color mode has been selected.
 * Orientation - all images are oriented correctly, no distortion or proportion irregularities.
 * No physical matter - no dirt, dust, etc. obstructing the view of the item.
-* No digital artifacts - no glare, no lens flare etc.
+* No digital artifacts - no glare, no lens flare, etc.
 * Page order - keep track of the page order while scanning and also check a sample size at the end of the scanning process.
 * Cropping - images are properly cropped (default = 1/8 inch on all sides) or per the project instructions.
 
@@ -251,7 +251,7 @@ Well-organized structures and file names make it easier to keep track of your da
 
 **Structuring Data**
 
-Think carefully about how best to structure your data from the very earliest stages of your project. This is particularly important when you have a number of collaborators, or are planning on sharing your data. Think about whether you need a deep or shallow hierarchy. **Aim for a shallow hierarchy**.
+Think carefully about how best to structure your data from the very earliest stages of your project. This is particularly important when you have a number of collaborators, or are planning on sharing your data. Think about whether you need a deep or shallow hierarchy. **Aim for a shallow hierarchy**
 
 Some examples of data structures include organization by:
 * types of data (text, images, sound files, etc.)
@@ -264,20 +264,20 @@ For file naming conventions, see the "File Naming & Organization" Guide: [https:
 
 **Other tips**
 
-Include in the directory a `README.txt` file that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future
+Include in the directory a `README.txt` file that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future.
 
 ### Using XRITE Color Checker software to create a Digital Negative and Lightroom Color Profile
 Note: Read Me documentation that comes with software provides step by step instructions.
-1. Insert disc
-2. Install software
-3. Using Lightroom, save image containing the Color Checker Passport in view as a .DNG
-4. Open the DNG reference image in Color Checker Passport software
-5. Software will automatically find color swatches
-6. Click "Create Profile" to save,  name appropriately so that it can be recognized as a reference file
-7. Software will save as .DCP file (this is your color correction profile)
-8. Restart Lightroom to apply .DCP file
-9. Go to Develop mode in Lightroom
-10. In the side panel scroll down to Camera Calibration, in this window click the drop down menu next to "Profile"
-11. The profile you created should show up in that list, click to apply to the selected image or select all images that were shot under the same lighting condition as reference image and apply profile to all
+1. Insert disc.
+2. Install software.
+3. Using Lightroom, save image containing the Color Checker Passport in view as a .DNG.
+4. Open the DNG reference image in Color Checker Passport software.
+5. Software will automatically find color swatches.
+6. Click "Create Profile" to save.  Name appropriately so that it can be recognized as a reference file.
+7. Software will save as .DCP file (this is your color correction profile).
+8. Restart Lightroom to apply .DCP file.
+9. Go to Develop mode in Lightroom.
+10. In the side panel scroll down to Camera Calibration. In this window, click the drop down menu next to "Profile."
+11. The profile you created should show up in that list. Click to apply to the selected image. You may also select all images that were shot under the same lighting condition as reference image and apply profile to all.
 12. If the Color checker software is unavailable or unusable you can still use the color reference target to white balance the image
-13. Go to develop mode in Lightroom, under white balance click the eyedropper, use the eyedropper to select the white patch on the color reference target and it should adjust the white balance correctly
+13. Go to develop mode in Lightroom. Under white balance, click the eyedropper. Use the eyedropper to select the white patch on the color reference target and it should adjust the white balance correctly.
