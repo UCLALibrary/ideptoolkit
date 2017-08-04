@@ -48,10 +48,10 @@ MiniDV tapes can be played in most DVCAM decks. The Sony deck you are receiving 
 The encoding stored on MiniDV tape can be Digital Video (DV), DVCAM or HDV. The video signal for all these formats is compressed or “lossy.” The audio signal for DV however is uncompressed. The sampling rate (number of audio samples per second) and the bit depth (number of bits used to carry the data in each sample of audio) can vary.
 
 DV supports the following modes of linear pulse code modulated (PCM) audio:
-4 channels at 12 bits with a 32 kHz sampling rate
-2 channels at 16 bits with a 48 kHz sampling rate
-2 channels at 12 bits 32 kHz mode
-2 channels at 16 bits at 44.1 kHz sampling rate (similar to CDs)
+* 4 channels at 12 bits with a 32 kHz sampling rate
+* 2 channels at 16 bits with a 48 kHz sampling rate
+* 2 channels at 12 bits 32 kHz mode
+* 2 channels at 16 bits at 44.1 kHz sampling rate (similar to CDs)
 Sampling rate:
 
 ![](../assets/img/minidv/sampling_rate.png)
@@ -77,8 +77,8 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
 **Connect cables and power:**
   1. Plug supplied power cord into the AC IN connector in the rear of the Sony HVR-M25AU DV deck. Plug the other end into your power source.
   2. Plug the FireWire 800/400 9-Pin/6-Pin Cable into the i.LINK jack in the rear of the DV deck. The 6-Pin connection will connect to the DV deck.
-  3. Connect the FireWire 9-pin connection to the Apple FireWire Thunderbolt adapter.
-  4. Plug the thunderbolt adapter into your MacBook Pro.
+  3. Connect the FireWire 9-Pin connection to the Apple FireWire Thunderbolt adapter.
+  4. Plug the Thunderbolt adapter into your MacBook Pro.
   5. Turn the DV unit on before turning on your computer.
       * Flip the power switch in the back of the unit to “ON”.
       * Press the power button in the front of deck.
@@ -94,6 +94,7 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   1. For DV or DVCAM open capture software called AVCVideoCap by either:
       * Typing AVCVideoCap in Mac Spotlight search field or,
       * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>AVCVideoCap.app**
+
   2. Highlight the DV unit under listed devices
 ![](../assets/img/minidv/screenshot.png)
   3. Click on “Capture From Device.” Name your file and select a location on your hard drive to save the file to. Then click “Save.”
@@ -107,6 +108,7 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   1. For HDV open capture software called DVHSCap by either:
       * Typing DVHSCap in the Mac Spotlight search field or,
       * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>DVHSCap.app**
+
   2. Choose “Capture from D-VHS.”
  ![](../assets/img/minidv/screenshot4.png)
   3. Name your project and select “Save” in the “Select Capture File” window. Select a location on your hard drive for capturing the video.
