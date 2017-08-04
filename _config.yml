@@ -25,7 +25,7 @@ author:
   email: <dlp@library.ucla.edu>
 
 # Fallback image and color
-image: /assets/img/nav.jpg
+image: /idpetoolkit/assets/img/nav.jpg
 color: '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
