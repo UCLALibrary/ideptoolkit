@@ -80,8 +80,8 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   3. Connect the FireWire 9-pin connection to the Apple FireWire Thunderbolt adapter.
   4. Plug the thunderbolt adapter into your MacBook Pro.
   5. Turn the DV unit on before turning on your computer.
-    * Flip the power switch in the back of the unit to “ON”.
-    * Press the power button in the front of deck.
+      * Flip the power switch in the back of the unit to “ON”.
+      * Press the power button in the front of deck.
 
 **Prepare your MiniDV for transfer:**
   1. Ensure your MiniDV is set to “Safe Mode” so it cannot be accidentally recorded over.
@@ -90,10 +90,10 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   3.  Rewind your tape if it isn’t already at the start of the recording.
   4.  Push “Play” and briefly review the aspect ratio, video and audio specifications. The LCD screen located on the front of the video deck will show the picture. Sound can be monitored with headphones plugged into the green headphone jack in the front of the deck. The audio sampling rate for your recording will automatically display on the LCD screen. Make sure the Audio Mode of the deck is set to match the original sampling rate of the recording. To do this go to: Menu>Audio Set>Audio Mode. Here you can adjust between 48 kHz or 32 kHz.
 
-**Initiate transfer of DV/DVCAM: **
+**Initiate transfer of DV/DVCAM:**
   1. For DV or DVCAM open capture software called AVCVideoCap by either:
-    * Typing AVCVideoCap in Mac Spotlight search field or,
-    * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>AVCVideoCap.app**
+      * Typing AVCVideoCap in Mac Spotlight search field or,
+      * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>AVCVideoCap.app**
   2. Highlight the DV unit under listed devices
 ![](../assets/img/minidv/screenshot.png)
   3. Click on “Capture From Device.” Name your file and select a location on your hard drive to save the file to. Then click “Save.”
@@ -105,8 +105,8 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
 
 **Initiate transfer of HDV content:**
   1. For HDV open capture software called DVHSCap by either:
-    * Typing DVHSCap in the Mac Spotlight search field or,
-    * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>DVHSCap.app**
+      * Typing DVHSCap in the Mac Spotlight search field or,
+      * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>DVHSCap.app**
   2. Choose “Capture from D-VHS.”
  ![](../assets/img/minidv/screenshot4.png)
   3. Name your project and select “Save” in the “Select Capture File” window. Select a location on your hard drive for capturing the video.
@@ -130,8 +130,7 @@ In addition to the raw .dv and .m2t files you will keep for preservation, you wi
   * Audio Stream: 32 kHz/16-bit AAC
 ![](../assets/img/minidv/access3.png)
 5. Under “Output File” click on the file name to select a location to save the files.
-6. Repeat steps 3-5. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.r each file in the queue.
-7. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.
+6. Repeat steps 3-5. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.
 ![](../assets/img/minidv/access4.png)
 
 ## Repairing MiniDV Tape
