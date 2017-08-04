@@ -80,6 +80,7 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   3. Connect the FireWire 9-Pin connection to the Apple FireWire Thunderbolt adapter.
   4. Plug the Thunderbolt adapter into your MacBook Pro.
   5. Turn the DV unit on before turning on your computer.
+  
     * Flip the power switch in the back of the unit to “ON."
     * Press the power button in the front of deck.
 
