@@ -203,14 +203,69 @@ Gray = Irrelevant
 
 2. Open the master preservation file you created. Listen to the beginning, middle and end of the audio file. Make sure it plays and there are no anomalies.
 
-Jelco DIN to Phono and Ground cable 
 ![](../assets/img/lacq/image20.jpg)
+Jelco DIN to Phono and Ground cable 
 
-BNC/RCA Adapter
 ![](../assets/img/lacq/image23.jpg)
+BNC/RCA Adapter
 
-TRS to XLR cable
 ![](../assets/img/lacq/image21.jpg)
+TRS to XLR cable
 
-AES/EBU cable
 ![](../assets/img/lacq/image22.jpg)
+AES/EBU cable
+
+![](../assets/img/lacq/image24.jpg)
+IEC power cable
+
+![](../assets/img/lacq/image26.jpg)
+C7 coupler
+
+![](../assets/img/lacq/image27.jpg)
+RCA cable
+
+![](../assets/img/lacq/image28.jpg)
+28v Meanwell power supply for KAB preamp
+
+![](../assets/img/lacq/image29.jpg)
+Groundling adapter
+
+![](../assets/img/lacq/image31.jpg)
+USB to USB-C adapter
+
+![](../assets/img/lacq/image32.jpg)
+Water distillation unit
+
+![](../assets/img/lacq/image33.jpg)
+WET Cleaning Brushes for 12" and 45 discs
+
+![](../assets/img/lacq/image5.jpg)
+DRY Brush for final brushing of shellacs, lacquers and diamond
+
+![](../assets/img/lacq/image6.jpg)
+3" chisel trim paint brush for brushing off heavy particulate matter
+
+![](../assets/img/lacq/image7.jpg)
+Disc Doctor cleaning solutions (regular and augmented versions)
+    * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
+
+![](../assets/img/lacq/image8.jpg)
+Shure Stylus Force Gauge
+
+![](../assets/img/lacq/image9.jpg)
+Shure N44-3 generic 78 stylus
+
+![](../assets/img/lacq/image10.jpg)
+Expert Styli in: 2.1 mils, 2.3 mils, 2.5 mils, 2.8 mils, 3.0 mils, 3.2 mils
+
+![](../assets/img/lacq/image12.jpg)
+Jelco SA-750L tonearm
+
+![](../assets/img/lacq/image13.jpg)
+Allen wrench for adjusting tonearm set screw
+
+![](../assets/img/lacq/image14.jpg)
+Preamp KAB Souvenir EQS MK12
+
+![](..assets/img/lacq/image15.jpg)
+Voltage regulator Fuhrman M-8X AR
