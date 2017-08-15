@@ -80,8 +80,8 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   3. Connect the FireWire 9-Pin connection to the Apple FireWire Thunderbolt adapter.
   4. Plug the Thunderbolt adapter into your MacBook Pro.
   5. Turn the DV unit on before turning on your computer.
-    * Flip the power switch in the back of the unit to “ON."
-    * Press the power button in the front of deck.
+      * Flip the power switch in the back of the unit to “ON”.
+      * Press the power button in the front of deck.
 
 **Prepare your MiniDV for transfer:**
   1. Ensure your MiniDV is set to “Safe Mode” so it cannot be accidentally recorded over.
@@ -92,8 +92,9 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
 
 **Initiate transfer of DV/DVCAM:**
   1. For DV or DVCAM open capture software called AVCVideoCap by either:
-    * Typing AVCVideoCap in Mac Spotlight search field or,
-    * Go to: **Macintosh HD>Developer>FireWireSDK26>Applications>AVCVideoCap.app**
+      * Typing AVCVideoCap in Mac Spotlight search field or,
+      * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>AVCVideoCap.app**
+
   2. Highlight the DV unit under listed devices
 ![](../assets/img/minidv/screenshot.png)
   3. Click on “Capture From Device.” Name your file and select a location on your hard drive to save the file to. Then click “Save.”
@@ -105,8 +106,9 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
 
 **Initiate transfer of HDV content:**
   1. For HDV open capture software called DVHSCap by either:
-    * Typing DVHSCap in the Mac Spotlight search field or,
-    * Go to: **Macintosh HD>Developer>FireWireSDK26>Applications>DVHSCap.app**
+      * Typing DVHSCap in the Mac Spotlight search field or,
+      * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>DVHSCap.app**
+
   2. Choose “Capture from D-VHS.”
  ![](../assets/img/minidv/screenshot4.png)
   3. Name your project and select “Save” in the “Select Capture File” window. Select a location on your hard drive for capturing the video.
@@ -130,8 +132,7 @@ In addition to the raw .dv and .m2t files you will keep for preservation, you wi
   * Audio Stream: 32 kHz/16-bit AAC
 ![](../assets/img/minidv/access3.png)
 5. Under “Output File” click on the file name to select a location to save the files.
-6. Repeat steps 3-5. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.r each file in the queue.
-7. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.
+6. Repeat steps 3-5. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.
 ![](../assets/img/minidv/access4.png)
 
 ## Repairing MiniDV Tape
