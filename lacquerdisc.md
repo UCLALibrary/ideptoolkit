@@ -267,5 +267,5 @@ Allen wrench for adjusting tonearm set screw
 ![](../assets/img/lacq/image14.jpg)
 Preamp KAB Souvenir EQS MK12
 
-![](..assets/img/lacq/image15.jpg)
+![](../assets/img/lacq/image15.jpg)
 Voltage regulator Fuhrman M-8X AR
