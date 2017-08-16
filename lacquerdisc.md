@@ -101,7 +101,7 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 1. With the headshell cartridge assembly is in place, and the tonearm free, adjust the tonearm counterweight by rotating the rear section until the tonearm floats in a balanced condition above the record or mat. Do not allow the needle to drop onto the mat or the turntable platter during this adjustment. You may damage the needle tip. Now, carefully hold the tonearm in one hand while rotating the numbered ring on the front of the counter-weight with the other hand to the “0” setting. Next, without touching the numbered ring, rotate the rear counterweight until the desired needle pressure reading is next to the indicator line at the top of the tonearm tube.
 
 2. To confirm the pressure, place the stylus pressure gauge on the platter surface with the v-shaped notch against the spindle. Set anti-skate to “0.” Position the sliding weight to 1.5 grams on the gauge. Carefully lower the tonearm and cartridge to the “Times 2” groove. The white pointers need to align edge to edge in the viewing mirror. To make further adjustments, carefully lift the stylus and reduce/increase tracking force as needed. Then lower the stylus onto the gauge to re-check the weight. You will need to confirm this measurement each time you make any adjustment to the tonearm weight.
-![](../assets/img/lacq/image1.jpg)
+![](../assets/img/lacq/image01.jpg)
 
 ### Power on the equipment
 1. The power for all the equipment should be connected to the outlets in the rear of the voltage regulator. When powering on turn on the voltage regulator first.
@@ -137,7 +137,7 @@ Move the Mono Mix dial left and right as necessary during initial playback to se
 2. Set the “Gain” toggle switch to “0.”
 
 3. Press-and-release the Mode Switch up to cycle through the sample rate and bit depth options for the Aux Output.
-![](../assets/img/lacq/image3.jpg)
+![](../assets/img/lacq/image03.jpg)
 ![](../assets/img/lacq/image25.jpg)
 Black = Lit
 White = Not Lit
@@ -190,11 +190,11 @@ Gray = Irrelevant
 1. Once your stylus size and EQ has been selected, place the stylus at the beginning of the recording. Click on the “Record” icon in Adobe Audition. Press “Start” on the turntable.
 
 2. The audio will begin recording.
-![](../assets/img/lacq/image4.jpg)
+![](../assets/img/lacq/image04.jpg)
 
 ### End recording
 1. When the disc completes playback, press the keyboard spacebar or click on the square “Stop” icon to end the transfer. To stop playback on the turntable, first press the “Start/Stop” button. Then carefully lift the tonearm and move it to rest securely on the side. If there are any large silent sections at the beginning or end, you may choose to trim the ends of the file.
-![](../assets/img/lacq/image2.jpg)
+![](../assets/img/lacq/image02.jpg)
 
 2. To trim audio, position the playhead where you want the clip to start and type *I* to set the *In* point. Next, position the playhead where you want the clip to end and type *O* to set the *Out* point. The selected region on the timeline will turn white. To crop the unselected portions out, either use the shortcut [Command] + [T] or select *Edit*>*Crop*. 
 
@@ -239,20 +239,20 @@ Water distillation unit
 ![](../assets/img/lacq/image33.jpg)
 WET Cleaning Brushes for 12" and 45 discs
 
-![](../assets/img/lacq/image5.jpg)
+![](../assets/img/lacq/image05.jpg)
 DRY Brush for final brushing of shellacs, lacquers and diamond
 
-![](../assets/img/lacq/image6.jpg)
+![](../assets/img/lacq/image06.jpg)
 3" chisel trim paint brush for brushing off heavy particulate matter
 
-![](../assets/img/lacq/image7.jpg)
+![](../assets/img/lacq/image07.jpg)
 Disc Doctor cleaning solutions (regular and augmented versions)
     * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
 
-![](../assets/img/lacq/image8.jpg)
+![](../assets/img/lacq/image08.jpg)
 Shure Stylus Force Gauge
 
-![](../assets/img/lacq/image9.jpg)
+![](../assets/img/lacq/image09.jpg)
 Shure N44-3 generic 78 stylus
 
 ![](../assets/img/lacq/image10.jpg)
