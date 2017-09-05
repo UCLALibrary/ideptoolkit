@@ -132,7 +132,8 @@ In addition to the raw .dv and .m2t files you will keep for preservation, you wi
   * Audio Stream: 32 kHz/16-bit AAC
 ![](../assets/img/minidv/access3.png)
 5. Under “Output File” click on the file name to select a location to save the files.
-6. Repeat steps 3-5. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.
+6. Repeat steps 3-5 for each file in the queue. 
+7. Once you have a queue of files ready to be transcoded, click on the green play icon to start encoding. Ideally, you will process the files at the end of the work day and allow the processes to run overnight.
 ![](../assets/img/minidv/access4.png)
 
 ## Repairing MiniDV Tape
