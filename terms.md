@@ -3,12 +3,15 @@ layout: page
 title: Descriptive Terms
 menu: true
 order: 3
+lang: eng
+ref: terms
+permalink: /terms
 ---
 <!-- TOC depthFrom:3 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [1. Title (Required)](#1-title-required)
-- [2. Filename (Required) & Identifiers](#2-filename-required-identifiers)
-- [3. Creator / Contributor (Recommended)](#3-creator-contributor-recommended)
+- [2. Filename (Required) & Identifiers](#2-filename-required--identifiers)
+- [3. Creator / Contributor (Recommended)](#3-creator--contributor-recommended)
 - [4. Publisher place (Recommended)](#4-publisher-place-recommended)
 - [5. Date (Required)](#5-date-required)
 - [6. Language (Required)](#6-language-required)
@@ -112,7 +115,7 @@ EXAMPLES
 
 ##### Standards and Guidelines
 
-* [Thesaurus of Geographic Names (TGN)](http://www.w3.org/TR/NOTE-datetime)
+* [Thesaurus of Geographic Names (TGN)](http://www.getty.edu/research/tools/vocabularies/tgn/index.html)
 * [Library of Congress Name Authority file (LCNAF](http://authorities.loc.gov))
 
 ### 5. Date (Required)
@@ -177,29 +180,15 @@ _Always include qualifiers for this element._
 
 Required qualifiers:
 
-**Type.collection** – Choose one of two values:
-
-* yes – Record is for a collection of resources
-* no – Record is for a single resource
-
-**Type.manuscript** – Choose one of two values:
-
-* yes – Resource being described is a manuscript
-* no – Resource being described is not a manuscript
-
 **Type.typeOfResource** – The general type of content of the resource. The metadata template contains a pull-down menu of the acceptable terms (text, still image, cartographic, sound recording, moving image, etc.)
 
 **Type.genre** – A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in Type.typeOfResource. Use a controlled vocabulary (Art & Architecture Thesaurus Online [AAT] preferred) where possible; otherwise identify the term as a local heading.
 
 ```
 EXAMPLES
-* Type.collection: yes Type.manuscript: yes [Record for a collection of digitized manuscripts.]
-* Type.collection: yes Type.manuscript: no [Record for a collection of digitized posters.]
-* Type.collection: no Type.manuscript: yes [Record for a single digitized document (on its own, or as part of a larger collection).]
-* Type.collection: no Type.manuscript: no [Record for a single digitized poster (on its own, or as part of a larger collection).]
 * Type.typeOfResource: still image
 * Type.typeOfResource: sound recording
-* Type.genre: posters
+* Type.genre: Posters
 * Type.genre: Periodicals
 * Type.genre: Spaghetti Westerns
 ```
@@ -207,7 +196,7 @@ EXAMPLES
 
 For **Type.genre:**
 
-* ** Art & Architecture Thesaurus Online (AAT)** (preferred)
+* **Art & Architecture Thesaurus Online (AAT)** (preferred)
 * Basic Genre Terms for Cultural Heritage Materials (BGTCHM)
 * Library of Congress Subject Headings (LCSH)
 * Rare Books and Manuscripts Section Controlled Vocabularies (RBMS)

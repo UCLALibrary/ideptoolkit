@@ -3,6 +3,9 @@ layout: page
 title: Lacquer Disc Transfer
 menu: true
 order: 7
+lang: eng
+ref: lacquer
+permalink: /lacquer
 ---
 
 ### Overview
@@ -65,13 +68,13 @@ order: 7
 
 8. APPLYING CLEANER: Place the disc flat on the work surface. Apply cleaner to the wet cleaning brush (distinguished by the black cleaning pads) so that the fiber surface is almost fully saturated with fluid. For a standard 12” LP-sized brush, 2-3 ml is recommended by the manufacturer for the initial wetting and approx. half as much for subsequent sides. More will be needed for a 16” disc.
 
-  Lightly run the saturated brush completely around the disc to wet the entire surface. Avoid wetting the record label. Then clean 1/3 of the grooved surface at a time with three back and forth sweeps. Apply enough pressure on the brush to ensure good contact without crushing the pad into the grooves. The movement of the fluid is cleaning the groove walls. The brush is simply helping the fluid to move around. There should be enough fluid in the brush to provide a small puddle in front of the moving brush. Move this puddle around as cleaning progresses.
+    Lightly run the saturated brush completely around the disc to wet the entire surface. Avoid wetting the record label. Then clean 1/3 of the grooved surface at a time with three back and forth sweeps. Apply enough pressure on the brush to ensure good contact without crushing the pad into the grooves. The movement of the fluid is cleaning the groove walls. The brush is simply helping the fluid to move around. There should be enough fluid in the brush to provide a small puddle in front of the moving brush. Move this puddle around as cleaning progresses.
 
-  When cleaning is complete, remove most of the fluid by sweeping it up into the cleaning brush as you lightly drag it around the disc surface. Remove residual fluid from the disc with a cotton cloth. Remove residual cleaner from the brush by gently squeezing the upper pile of the cleaning pad with the plastic handle of a clean toothbrush or a plastic scraper. **Never dry the record completely by scrubbing with cloth or paper as this introduces static.**
+    When cleaning is complete, remove most of the fluid by sweeping it up into the cleaning brush as you lightly drag it around the disc surface. Remove residual fluid from the disc with a cotton cloth. Remove residual cleaner from the brush by gently squeezing the upper pile of the cleaning pad with the plastic handle of a clean toothbrush or a plastic scraper. **Never dry the record completely by scrubbing with cloth or paper as this introduces static.**
 
 9. RINSING: Saturate a second wet brush with distilled water from a clean container. Spread water around the disc to remove the excess cleaner using the same technique as in the cleaner application step. Avoid wetting the label. Remove residual rinse water from the grooves with a cotton square. Use the slightly dampened cloth to gently wipe label. Always remove any excess water from labels by patting, not wiping.
 
-  *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
+    *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
 
 10. DRYING: After cleaning and rinsing the reverse side, allow the record to thoroughly air dry (3-6 min), depending on humidity and airflow before digitizing or storing. Used a plastic drying dish rack or something similar.
 
@@ -80,7 +83,7 @@ order: 7
 ### Preparation and alignment for playback
 Before playing a disc on the turntable, make the following preparations:
 
-1. Level your turntable. Adjust the turntable legs by turning them to lower/raise as needed, making sure the level's bubbles are centered. 
+1. Level your turntable. Adjust the turntable legs by turning them to lower/raise as needed, making sure the level's bubbles are centered.
 
 2. Prepare the platter surface. Place the thick rubber mat down on the platter, then place the 16” aluminum support on top of the rubber mat. This will support the full surface of the disc during playback.
 
@@ -88,12 +91,12 @@ Before playing a disc on the turntable, make the following preparations:
 
 4. For testing of tonearm and cartridge alignment use a generic stylus that fits the cartridge. For the Shure M44-7 cartridge use a Shure N44-7 replacement stylus. The specially sized styli actually used for the transfers are custom made by Expert Styli in the United Kingdom and require 6-8 weeks to make. They are very fragile and require careful handling.
 
-Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge. 
+    Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
 ![](../assets/img/lacq/image10.jpg)
 
-6. Next, align the cartridge. Holding the tone arm tube in one hand, insert the cartridge and headshell assembly into the tube lock with the other hand. Turn the lock ring counterclockwise until the headshell is locked securely into the tone arm. Place the needle on record. View the needle from the front and ensure that the needle is perpendicular to the record surface. Using a flashlight, illuminate the surface of the disc and verify that the cartridge is reflected as an exact mirror image on the surface. If some adjustment is needed, simply loosen the lock ring and rotate the cartridge-headshell until the needle is perpendicular to the record surface. Then re-tighten the lock ring. 
+5. Next, align the cartridge. Holding the tone arm tube in one hand, insert the cartridge and headshell assembly into the tube lock with the other hand. Turn the lock ring counterclockwise until the headshell is locked securely into the tone arm. Place the needle on record. View the needle from the front and ensure that the needle is perpendicular to the record surface. Using a flashlight, illuminate the surface of the disc and verify that the cartridge is reflected as an exact mirror image on the surface. If some adjustment is needed, simply loosen the lock ring and rotate the cartridge-headshell until the needle is perpendicular to the record surface. Then re-tighten the lock ring.
 
-7. Adjust the tonearm height. The Jelco (model SA-750L) tonearm height is controlled by a set screw at the base of the tonearm. Loosen the screw with an Allen wrench to manually adjust the tonearm pillar up or down. To help support the tonearm during adjustments use a deck of cards for testing height. Place cards between the tonearm collar and the tonearm, adding and removing cards as needed to adjust height. If possible the tonearm should be approximately parallel to the surface of the platter. Also, the rear of the cartridge should not touch the disc surface, which can cause damage and introduce noise. The unique custom setup of this turntable to accommodate 16” discs may make it challenging to place the tonearm parallel as the platter requires raised mats to avoid touching the on/off button during playback. In this case verifying that the cartridge is well positioned is the most important step.
+6. Adjust the tonearm height. The Jelco (model SA-750L) tonearm height is controlled by a set screw at the base of the tonearm. Loosen the screw with an Allen wrench to manually adjust the tonearm pillar up or down. To help support the tonearm during adjustments use a deck of cards for testing height. Place cards between the tonearm collar and the tonearm, adding and removing cards as needed to adjust height. If possible the tonearm should be approximately parallel to the surface of the platter. Also, the rear of the cartridge should not touch the disc surface, which can cause damage and introduce noise. The unique custom setup of this turntable to accommodate 16” discs may make it challenging to place the tonearm parallel as the platter requires raised mats to avoid touching the on/off button during playback. In this case verifying that the cartridge is well positioned is the most important step.
 
 ### Stylus pressure
 To accurately verify your vertical racking force, use a stylus pressure gauge. If too much weight is placed on the stylus it can cause damage to both the disc and the needle. The tracking force for these styli should be between 3 to 3.5 grams.
@@ -127,7 +130,7 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 
 6. To use the preamp to reduce noise during playback press IN both the Stereo/Mono and Lateral/Vertical selector buttons located under the Process buttons. When these buttons are pushed IN, Mono and Vertical are selected.
 
-Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
+    Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
 
 7. Check that the Gain knob is set to “0.”
 
@@ -139,9 +142,9 @@ Move the Mono Mix dial left and right as necessary during initial playback to se
 3. Press-and-release the Mode Switch up to cycle through the sample rate and bit depth options for the Aux Output.
 ![](../assets/img/lacq/image03.jpg)
 ![](../assets/img/lacq/image25.jpg)
-Black = Lit
-White = Not Lit
-Gray = Irrelevant
+    * Black = Lit
+    * White = Not Lit
+    * Gray = Irrelevant
 
 4. Set the Meter Switch to “H” (top) to enable the Peak Hold function and set the scale to a 1 dB step.
 ![](../assets/img/lacq/image17.jpg)
@@ -154,28 +157,33 @@ Gray = Irrelevant
 ### Stylus selection
 1. Transcription discs were not recorded in a standardized way. The size of cutting lathe varied over time. Additional factors, such as the expertise of the recording engineer or how the recordings were listened to over time, all ultimately affect the quality of the final recording in your collection. You have a range of truncated elliptical (ET) styli available (2.0 mils to 3.2 mils) and will need to choose the one that will make the recording sound the most acceptable. Do the voices or music in your recording essentially sound “right”?
 
-2. Begin testing with a 2.8 ET. Recent studies have shown this size tends to work with a wide variety of discs. You may need to go up or down in size depending on the wear and condition of a disc. During early test transfers with the IHC, a 2.5 ET sounded best the majority of the time. 
+2. Begin testing with a 2.8 ET. Recent studies have shown this size tends to work with a wide variety of discs. You may need to go up or down in size depending on the wear and condition of a disc. During early test transfers with the IHC, a 2.5 ET sounded best the majority of the time.
 
-3. If the disc is somewhat worn, a 2.0 or 2.3 mils stylus might work better. 
+3. If the disc is somewhat worn, a 2.0 or 2.3 mils stylus might work better.
 
 4. Remember that stylus selection is the most subjective step of the transfer process. Some engineers use microscopes, others use their listening expertise. Recent quantitative studies documented by George Blood and Marcos Sueiro Bal in the United States highlight how even among expert technicians there is no agreed upon single correct stylus size for a given recording. Relax and listen, trust your ears.
 
 ### Turntable speed
 16” radio transcription discs play at 33 1/3 rpm. Smaller discs may play at 78 rpm or 33 1/3.
 
-1. Typically turntable speeds are verified by viewing the dots along the edge of the platter. Because this turntable has been customized to play 78 rpm, the dots are no longer an accurate representation of playback speed. 
+1. Typically turntable speeds are verified by viewing the dots along the edge of the platter. Because this turntable has been customized to play 78 rpm, the dots are no longer an accurate representation of playback speed.
 
 2. Note that the default speed on the this turntable is set to 45rpm not 33 1/3rpm.
  * To select 33 1/3rpm: Press 33 1/3 button for a second
  * To select 45rpm: Press 33 1/3 button for a second
  * To select 78rpm: Press both 33 and 45 buttons simultaneously. Both lights should illuminate in red
- 
+
 ### Launch the audio capture software
 1. Open Adobe Audition
+
 2. Go to *File> New> Audio File*
+
 3. For “File Name” include a unique identifier
+
 4. Set “Sample Rate” to 96,000 Hz
+
 5. Set “Channels” to Stereo. Even with mono recordings you will want to capture the sound from both walls for the master preservation file. The stereo channels can be turned into a mono audio file later on if required
+
 6. Set “Bit Depth” to 24 bits
 ![](../assets/img/lacq/image19.jpg)
 
@@ -184,7 +192,7 @@ Gray = Irrelevant
 
 2. Carefully lower the stylus on the disc and press the “Start/Stop” button on the turntable to begin playback. Click on the “Record” icon (red circle) in the Adobe Audition Editor window. You can also use this shortcut instead: Shift + Space Bar.
 
-3. View the meters and ensure that the recording audio levels do not peak beyond 0 dBFS (decibel). 
+3. View the meters and ensure that the recording audio levels do not peak beyond 0 dBFS (decibel).
 
 ### Initiate transfer
 1. Once your stylus size and EQ has been selected, place the stylus at the beginning of the recording. Click on the “Record” icon in Adobe Audition. Press “Start” on the turntable.
@@ -196,15 +204,15 @@ Gray = Irrelevant
 1. When the disc completes playback, press the keyboard spacebar or click on the square “Stop” icon to end the transfer. To stop playback on the turntable, first press the “Start/Stop” button. Then carefully lift the tonearm and move it to rest securely on the side. If there are any large silent sections at the beginning or end, you may choose to trim the ends of the file.
 ![](../assets/img/lacq/image02.jpg)
 
-2. To trim audio, position the playhead where you want the clip to start and type *I* to set the *In* point. Next, position the playhead where you want the clip to end and type *O* to set the *Out* point. The selected region on the timeline will turn white. To crop the unselected portions out, either use the shortcut [Command] + [T] or select *Edit*>*Crop*. 
+2. To trim audio, position the playhead where you want the clip to start and type *I* to set the *In* point. Next, position the playhead where you want the clip to end and type *O* to set the *Out* point. The selected region on the timeline will turn white. To crop the unselected portions out, either use the shortcut [Command] + [T] or select *Edit*>*Crop*.
 
 ### Save the audio file
-1. Once the audio is trimmed, you can save the file. Select *File*>*Save As* and save the master file using your chosen unique identifier for the file name. 
+1. Once the audio is trimmed, you can save the file. Select *File*>*Save As* and save the master file using your chosen unique identifier for the file name.
 
 2. Open the master preservation file you created. Listen to the beginning, middle and end of the audio file. Make sure it plays and there are no anomalies.
 
 ![](../assets/img/lacq/image20.jpg)
-Jelco DIN to Phono and Ground cable 
+Jelco DIN to Phono and Ground cable
 
 ![](../assets/img/lacq/image23.jpg)
 BNC/RCA Adapter
@@ -247,7 +255,8 @@ DRY Brush for final brushing of shellacs, lacquers and diamond
 
 ![](../assets/img/lacq/image07.jpg)
 Disc Doctor cleaning solutions (regular and augmented versions)
-    * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
+
+ * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
 
 ![](../assets/img/lacq/image08.jpg)
 Shure Stylus Force Gauge
