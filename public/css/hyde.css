@@ -73,7 +73,7 @@ html {
   background-image: linear-gradient(
       rgba(10, 50, 80, 0.1),
       rgba(10, 50, 80, 0.1)
-    ), 
+    ),
   url("../../assets/img/nav.jpg");
   background-size: cover;
   background-position: center;
@@ -86,7 +86,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 19rem;
+    width: 25rem;
     text-align: left;
   }
 }
@@ -194,7 +194,7 @@ a.sidebar-nav-lang:focus {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 27rem;
     margin-right: 4rem;
   }
 }
