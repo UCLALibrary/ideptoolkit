@@ -3,7 +3,7 @@ layout: page
 title: Términos Descriptivos
 menu: true
 order: 3
-lang: spa
+lang: Español
 ref: terms
 permalink: /terms-spa
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Անդրտվյալների ուղեցույցներ
 menu: true
 order: 2
-lang: arm
+lang: հայերեն
 ref: metadata
 permalink: /metadata-arm
 ---
@@ -47,7 +47,7 @@ IDEP-ի հավաքածուների մետատվյալները պետք է ներ
 
 **Բովանդակության չափանիշ (content standard).** Ուղեցույներ մետատվյալների տարրերում մուտագրված արժեքների ձևաչափի, շարահյուսության և բովանդակության վերաբերյալ: Օրինակներ՝ «Anglo-American Cataloguing Rules/Resource Description and Access» (AACR2/RDA), «International Standard Bibliographic Description» (ISBD), «Cataloging Cultural Objects» (CCO), «Describing Archives: A Content Standard» (DACS):
 
-**Վերահսկվող բառապաշար (controlled vocabulary).** Աղբյուրի նկարագրման և վերստացման հետեւողականություն ապահովելու համար օգտագործվող նախընտրելի տերմինների հաստատված խումբ։ 
+**Վերահսկվող բառապաշար (controlled vocabulary).** Աղբյուրի նկարագրման և վերստացման հետեւողականություն ապահովելու համար օգտագործվող նախընտրելի տերմինների հաստատված խումբ։
 
 **Նկարագրական մետատվյալներ (descriptive metadata).**  Աղբյուրների և թվային առարկաների մասին տվյալներ, որոնք նախատեսված են դրանց բացահայտումը և նույնականացումը բարելավելու և տարբեր աղբյուրների միջև կապ հաստատելու համար:
 

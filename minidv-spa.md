@@ -3,7 +3,7 @@ layout: page
 title: Transferencia de MiniDV
 menu: true
 order: 6
-lang: spa
+lang: Español
 ref: minidv
 permalink: /minidv-spa
 ---

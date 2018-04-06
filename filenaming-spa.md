@@ -3,7 +3,7 @@ layout: page
 title: Nombres de Archivo &amp; Organización
 menu: true
 order: 1
-lang: spa
+lang: Español
 ref: filenaming
 permalink: /filenaming-spa
 ---

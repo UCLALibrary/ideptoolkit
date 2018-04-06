@@ -3,7 +3,7 @@ layout: page
 title: Flujo de Trabajo para Cintas de ¼ de pulgada
 menu: true
 order: 8
-lang: spa
+lang: Español
 ref: audiotape
 permalink: /audiotape-spa
 ---

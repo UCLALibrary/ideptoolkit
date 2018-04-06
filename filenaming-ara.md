@@ -3,7 +3,7 @@ layout: page
 title: تسمية الملفات و تنظيمها
 menu: true
 order: 1
-lang: ara
+lang: عربى
 ref: filenaming
 permalink: /filenaming-ara
 ---

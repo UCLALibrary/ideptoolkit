@@ -3,7 +3,7 @@ layout: page
 title: Թվայնացում (Տպագիր/Պատկեր)
 menu: true
 order: 4
-lang: arm
+lang: հայերեն
 ref: digprint
 permalink: /digprint-arm
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Ֆայլի անվանում և դասավորում
 menu: true
 order: 1
-lang: arm
+lang: հայերեն
 ref: filenaming
 permalink: /filenaming-arm
 ---

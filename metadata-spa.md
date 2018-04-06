@@ -3,7 +3,7 @@ layout: page
 title: Guía para Metadatos
 menu: true
 order: 2
-lang: spa
+lang: Español
 ref: metadata
 permalink: /metadata-spa
 ---

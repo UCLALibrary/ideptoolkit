@@ -3,7 +3,7 @@ layout: page
 title: Աշխատաշրջանի ստուգացանկ (Տպագիր/Պատկեր)
 menu: true
 order: 5
-lang: arm
+lang: հայերեն
 ref: checklist
 permalink: /checklist-arm
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Transferencia de disco de laca
 menu: true
 order: 7
-lang: spa
+lang: Español
 ref: lacquer
 permalink: /lacquer-spa
 ---

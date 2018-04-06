@@ -3,7 +3,7 @@ layout: page
 title: MiniDV Transfer
 menu: true
 order: 6
-lang: eng
+lang: English
 ref: minidv
 permalink: /minidv
 ---

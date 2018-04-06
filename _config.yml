@@ -9,7 +9,7 @@ permalink:        pretty
 title:            IDEP Partner Toolkit
 tagline:          'UCLA'
 description:      'A guide to standards and workflows for IDEP partner institutions.'
-url:              https://uclalibrary.github.io
+url:
 baseurl:          /ideptoolkit/
 
 author:
@@ -27,15 +27,15 @@ github:
 defaultlang:      eng
 
 t:
-  eng:
+  English:
     title:        'IDEP Partners Toolkit'
     description:  'A guide to standards and workflows for IDEP partner institutions.'
-  spa:
+  Español:
     title:        ''
     description:  'Una guía de estándares y flujos de trabajo para las instituciones asociadas al IDEP.'
-  arm:
+  հայերեն:
     title:        ''
     description:  'IDEP գործընկեր հաստատությունների համար ստանդարտների եւ աշխատանքի արդյունքի ուղեցույց:'
-  ara:
+  عربى:
     title:        ''
     description:  'دليل إرشادي للمشروع الدولي لرقمنة المطبوعات العابرة'

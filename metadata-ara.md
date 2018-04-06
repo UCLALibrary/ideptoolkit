@@ -3,7 +3,7 @@ layout: page
 title: القواعد الارشادية للبيانات الوصفية
 menu: true
 order: 2
-lang: ara
+lang: عربى
 ref: metadata
 permalink: /metadata-ara
 ---

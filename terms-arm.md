@@ -3,7 +3,7 @@ layout: page
 title: Նկարագրական տերմիններ
 menu: true
 order: 3
-lang: arm
+lang: հայերեն
 ref: terms
 permalink: /terms-arm
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Metadata Guidelines
 menu: true
 order: 2
-lang: eng
+lang: English
 ref: metadata
 permalink: /metadata
 ---

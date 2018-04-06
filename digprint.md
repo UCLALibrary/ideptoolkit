@@ -3,7 +3,7 @@ layout: page
 title: Digitization (Print/Image)
 menu: true
 order: 4
-lang: eng
+lang: English
 ref: digprint
 permalink: /digprint
 ---

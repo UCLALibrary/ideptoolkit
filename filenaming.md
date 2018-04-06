@@ -3,7 +3,7 @@ layout: page
 title: File Naming and Organization
 menu: true
 order: 1
-lang: eng
+lang: English
 ref: filenaming
 permalink: /filenaming
 ---

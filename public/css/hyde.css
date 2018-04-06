@@ -35,11 +35,11 @@
   text-transform: lowercase;
 }
 
-div.content:lang(ara) {
+div.content:lang(عربى) {
      direction: rtl;
 }
 
-div.sidebar:lang(ara) {
+div.sidebar:lang(عربى) {
    direction: rtl;
    text-align:right;
 }

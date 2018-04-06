@@ -3,7 +3,7 @@ layout: page
 title: Lacquer Disc Transfer
 menu: true
 order: 7
-lang: eng
+lang: English
 ref: lacquer
 permalink: /lacquer
 ---

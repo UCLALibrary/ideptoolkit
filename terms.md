@@ -3,7 +3,7 @@ layout: page
 title: Descriptive Terms
 menu: true
 order: 3
-lang: eng
+lang: English
 ref: terms
 permalink: /terms
 ---

@@ -3,7 +3,7 @@ layout: page
 title: MiniDV փոխանցում
 menu: true
 order: 6
-lang: arm
+lang: հայերեն
 ref: minidv
 permalink: /minidv-arm
 ---
@@ -14,7 +14,7 @@ permalink: /minidv-arm
 ![](../assets/img/minidv/video_deck.png)
 2. FireWire 800/400 9-Pin/6-Pin մալուխ
 ![](../assets/img/minidv/firewire.png)
-3. Apple Thunderbolt to FireWire Հարմարակցիչ՝ 
+3. Apple Thunderbolt to FireWire Հարմարակցիչ՝
 ![](../assets/img/minidv/firewire_adapter.png)
 **երիզի անհրաժեշտ վերանորոգումների համար (4-6).**
 4. 1⁄4" միակցված երիզ

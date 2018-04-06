@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Ajuste de Preferencias 
+title: Ajuste de Preferencias
 menu: true
 order: 9
-lang: spa
+lang: Español
 ref: audacity
 permalink: /audacity-spa
 ---
 
-Ajuste de Preferencias 
+Ajuste de Preferencias
 =======================
 
 Ajustar Dispositivos:
