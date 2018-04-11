@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flujo de Trabajo para Digitalización de Audio usando Audacity
+title: Flujo de trabajo para digitalización de audio usando Audacity
 menu: true
 order: 9
 lang: Español
@@ -8,7 +8,7 @@ ref: audacity
 permalink: /audacity-spa
 ---
 
-#### Ajustar Dispositivos:
+#### Ajustar dispositivos:
 
 * Ajustar “Host” (dispositivo principal) a “Core Audio”
 * Ajustar el dispositivo de reproducción (playback device) a Built-in
@@ -18,7 +18,7 @@ Output (Salida incorporada)
 
 ![](../assets/img/audacity/image1.png)
 
-#### Ajustar Calidad:
+#### Ajustar calidad:
 
 * Haga click en la pestaña Calidad (Quality)
 * Ajuste la frecuencia de muestreo (sample rate) a 96000 Hz

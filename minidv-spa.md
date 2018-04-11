@@ -8,7 +8,7 @@ ref: minidv
 permalink: /minidv-spa
 ---
 
-### Lista de Equipos:
+### Lista de equipos:
 
 1. Máquina reproductora de video digital Sony modelo HVR-M25AU (y cable r AC)
 ![](../assets/img/minidv/video_deck.png)
@@ -65,7 +65,7 @@ Para este proyecto capturaremos la pista de datos de video a través de una cone
 
 ![](../assets/img/minidv/s-video.png)
 
-### Transfiriendo Contenido de un MiniDV
+### Transfiriendo contenido de un MiniDV
 
 El software que usarán para transferir contenido en DV y DVCAM se llama AVCVideoCap. Es una herramienta del Apple FireWire SDK versión 26, un kit de desarrollo de softwares para sistemas operativos Mac. AVCVideoCap es un excelente candidato para la preservación de MiniDV porque transmite las señales de datos en bruto (o raw) sin aplicar cambios ni a la imagen ni al sonido. El archivo master resultante en bruto puede ser codificado a una gran variedad de archivos derivados.
 
@@ -115,7 +115,7 @@ Sin embargo, AVCVideoCap no puede capturar contenido HDV. Para cintas que conten
 4. El MiniDV comenzará automáticamente a reproducirse y a transmitir datos HDV. Cuando esté completo la cinta se detendrá automáticamente. Si deseas detener la captura en cualquier punto, selecciona &quot;Stop Capture&quot; (Detener Captura). El video digital resultante tendrá una extensión .m2t.
 ![](../assets/img/minidv/screenshot6.png)
 
-### Crear Archivos Streaming para Acceso
+### Crear archivos streaming para acceso
 
 Además de los archivos en bruto (raw) .dv y .m2t que guardarás para preservación, crearás archivos mp4 más livianos para acceso en streaming
 
@@ -135,7 +135,7 @@ Además de los archivos en bruto (raw) .dv y .m2t que guardarás para preservaci
 7. Una vez que tienes una fila de archivos lista para ser transcodificada, haz clic en el ícono verde de reproducción para comenzar la codificación. Procesarás los archivos idealmente al final del día de trabajo para permitir que los procesos se ejecuten durante la noche.
 ![](../assets/img/minidv/access4.png)
 
-### Reparar Cinta MiniDv
+### Reparar cinta MiniDv
 
 Una cinta MiniDV podrá necesitar reparación ocasionalmente. La cinta puede haberse roto o el cassette original puede tener un problema que impide su reproducción. La cinta rota puede repararse con cinta de empalme de ¼ pulgada. Si la caja del cassette está dañada puede ser reemplazada por la de  una cinta MiniDV virgen.
 

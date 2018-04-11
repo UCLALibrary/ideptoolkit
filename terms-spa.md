@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Términos Descriptivos
+title: Términos descriptivos
 menu: true
 order: 3
 lang: Español
@@ -47,9 +47,9 @@ Ejemplos
 * Paisajes citadinos de Los Ángeles en 1965 mirando al Noroeste hacia las montañas de Santa Mónica [asignado]
 ```
 
-### 2. Nombre de Archivo &amp; Identificadores
+### 2. Nombre de archivo &amp; identificadores
 
-##### Nombre de Archivo (obligatorio)
+##### Nombre de archivo (obligatorio)
 
 El nombre de archivo del objeto (ej. `arce_0001.tiff`) se guarda en el campo "**Filename**" (Nombre de Archivo). Para observar las mejores prácticas de nombres de archivos, ver la ["Guía de Nombres de Archivo &amp; Organización."](https://uclalibrary.github.io/ideptoolkit/filenaming.html)
 
@@ -57,7 +57,7 @@ El nombre de archivo del objeto (ej. `arce_0001.tiff`) se guarda en el campo "**
 
 Un **Identificador** es un identificador universal tales como ISBN, ISSN, DOI, o un número OCLC.
 
-##### ID Local (Recomendado)
+##### ID local (Recomendado)
 
 Un **ID Local** es un identificador asignado de forma local. Este puede ser una marca de estante, número de ítem o número de catálogo, o en algunos casos el nombre de archivo sin la extensión (ej. `arce_0001`).
 

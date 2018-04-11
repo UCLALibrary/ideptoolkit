@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flujo de Trabajo para Cintas de ¼ de pulgada
+title: Flujo de trabajo para cintas de ¼ de pulgada
 menu: true
 order: 8
 lang: Español
@@ -8,7 +8,7 @@ ref: audiotape
 permalink: /audiotape-spa
 ---
 
-## Revisión General del Formato
+## Revisión general del formato
 
 **¿Acetato o poliéster?**
 
@@ -73,7 +73,7 @@ Si la cinta rechina durante la reproducción, separar para tratamiento con D5.
 
 ![](../assets/img/audiotape_workflow/image7.png)
 
-## Recomendaciones para Reproducción
+## Recomendaciones para reproducción
 
 Detenga inmediatamente la reproducción de cintas que rechinen, que se descascaran o que se hayan endurecido.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digitalización (Impresos/Imágenes)
+title: Digitalización (impresos/imágenes)
 menu: true
 order: 4
 lang: Español
@@ -10,7 +10,7 @@ permalink: /digprint-spa
 
 ### Guía para captura digital &amp; post-procesamiento utilizando el kit de digitalización Nikon D810
 
-### Lista de Equipos
+### Lista de equipos
 
 1. Cuerpo de la cámara Nikon D810
 ![](../assets/img/digprint/image13.png)
@@ -80,14 +80,14 @@ permalink: /digprint-spa
 22. Mosquetones, cuerdas elásticas, amarras.
 23. Papel de fondo de colores.
 
-### Preparación Pre-captura
+### Preparación pre-captura
 * REVISE TODOS LOS MANUALES DE INSTRUCCIÓN Y DOCUMENTACIÓN.
 * Agrupe los ítems que serán digitalizados de acuerdo a su tamaño para evitar ajustar la cámara y el trípode muy a menudo durante la captura.
 * Utilice un fondo consistente y contrastante como respaldo de los materiales. Idealmente el fondo debe diferir en contraste a los materiales y debe ser preferentemente negro o blanco. Esto ayuda a las herramientas de corte automático.
 * Determine si los materiales serán capturados con la cámara horizontal o desde arriba utilizando la barra central horizontal en el trípode.
 * Capture en un espacio de paredes oscuras y pocas ventanas.
 
-### Ajustes de Cámara y Lentes
+### Ajustes de cámara y lentes
 
 1. Antes de comenzar, revise los manuales de la cámara y lentes.
 2. Ponga la cámara y lentes en una superficie limpia en una habitación libre de polvo.
@@ -130,9 +130,9 @@ Ejemplo:
 * Use cinta para hacer marcas en el suelo en los lugares donde están posicionados las patas del trípode para mantener consistencia en la distancia.
 * Enganche el mosquetón algún tipo de bolsa o peso y engánchela al trípode (hay un anillo de enganche) de modo que el trípode tenga un contrapeso y permanezca estable.
 
-### Ajuste de Iluminación
+### Ajuste de iluminación
 
-#### Ajuste de Luces
+#### Ajuste de luces
 
 1. Lea las instrucciones del Kit Air Profoto B2 250 y del control remoto Air TTL-N.
 2. Asegúrese de que la batería está cargada (el cargador está incluido en el kit. La batería está ubicada en el fondo del pack y puede removerse para ser cargada).
@@ -165,7 +165,7 @@ Ejemplo:
 3. Presione el botón "MODE" en el remoto de flash para ajustar el modo a "MAN" y no es "TTL" en el visor.
 4. **Nota: el remoto de flash a veces se va a modo suspendido cuando no es utilizado durante unos minutos, sólo encienda nuevamente el remoto de flash y reajusta el modo a "MAN".**
 
-#### Ajuste de Foco de Cámara
+#### Ajuste de foco de cámara
 
 1. Utilice el visor para mirar los materiales y ajustar el foco lo más claro posible.
 2. Abra la visión en vivo en el monitor LCD y haz zoom en cualquier texto o líneas distintivas y ajuste el foco hasta que se vean lo más claras posibles. Nota: no están haciendo zoom al lente, SÓLO a la visión en vivo, para ajustar foco.
@@ -208,13 +208,13 @@ Nota: el disparo de obturador tiene un cierre de bloqueo. Ábralo antes de desco
 1. Compare continuamente las imágenes a su histograma correspondiente para asegurarse de tener luz distribuida de forma uniforme.
 2. Vigile los niveles de batería de la cámara, pack de baterías de iluminación, computadora portátil y remoto de flash.
 
-### Desinstalación Post-Captura
+### Desinstalación post-captura
 
 * **Nunca desconecte las cabezas de flash del pack de batería mientras el pack esté encendido.**
 * Apague el pack de batería y luego descargue la potencia remanente utilizando el botón blanco en la parte superior del pack de batería.
 * Mantenga la parte blanca de las cajas de luz limpias y blancas para máxima duración.
 
-### Procesamiento Post-Captura
+### Procesamiento post-captura
 
 Durante la captura, las imágenes en Lightroom estarán en formato RAW. La mejor forma de implementar cambios post-captura es hacerlo en el archivo RAW. Una vez que todos los cambios/ediciones han sido realizados, los archivos pueden exportarse en TIFF o JPEG, para hacerlos más funcionales en otras aplicaciones.
 
@@ -233,7 +233,7 @@ El procesamiento incluye lo siguiente:
 ![](../assets/img/digprint/image16.png)
 ![](../assets/img/digprint/image5.jpg)
 
-### Especificaciones de Archivos a Simple Vista
+### Especificaciones de archivos a simple vista
 * Formato de archivo para másters: TIFF
 * Formato de archivo para derivados: JPEG o PDF/PDFa
 * Resolución de salida: 300 - 600ppi
@@ -241,7 +241,7 @@ El procesamiento incluye lo siguiente:
 * Color: los puntos máximos de RGB no deben exceder 250 - 250 - 250, las sombras no menos de 5 - 5 - 5, revise el histograma para ver esta información.
 * Espacio de color: sRGB o Adobe RGB 1998
 
-### Tips para el Control de la Calidad de Imagen
+### Tips para el control de la calidad de imagen
 
 Lo siguiente es una lista simplificada de puntos chequeo de control de calidad a considerar durante y después de la digitalización. Revisa lo siguiente:
 * Formato - cada imagen está en el formato correcto.
@@ -255,7 +255,7 @@ Lo siguiente es una lista simplificada de puntos chequeo de control de calidad a
 * Orden de página - mantén un seguimiento del orden de las páginas mientras escaneas y además revisa una muestra al final del proceso de escaneo.
 * Cortado - las imágenes están cortadas de forma apropiada (por defecto = ⅛ de pulgada por cada lado) o de acuerdo a las instrucciones del proyecto.
 
-### Nombres de Archivo y Estructura de Carpetas
+### Nombres de archivo y estructura de carpetas
 
 **Mejores Prácticas**
 
@@ -278,7 +278,7 @@ Para convenciones de nombres de archivos, ver la Guía "Nombres de Archivo &amp;
 
 Incluya en la carpeta un archivo `README.txt` que explique tu formato de nombramiento junto con cualquier abreviación o códigos que haya usado. Esta documentación será muy útil tanto durante el proyecto o experimento, y también en el futuro.
 
-### Utilizando el software XRITE Color Checker para crear un negativo digital y Perfil de Lightroom Color.
+### Utilizando el software XRITE Color Checker para crear un negativo digital y perfil de Lightroom Color.
 
 Nota: La documentación que viene con el software entrega instrucciones paso a paso.
 1. Inserte el disco.

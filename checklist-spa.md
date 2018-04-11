@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lista de Verificación (Impresos/Imágenes)
+title: Lista de verificación (impresos/imágenes)
 menu: true
 order: 5
 lang: Español
@@ -8,7 +8,7 @@ ref: checklist
 permalink: /checklist-spa
 ---
 
-###  Ajustes de Cámara
+###  Ajustes de cámara
 
 Asegúrese de que:
 * El foco esté ajustado a **A** en el lente
@@ -19,7 +19,7 @@ Asegúrese de que:
 * Balance de blancos (WB) está ajustado a 5000K
 * Calidad de imagen (QUAL) está ajustada a RAW
 
-###  Ajuste de Cámara
+###  Ajuste de cámara
 * Instale la cámara en el trípode
 * Conecte el remoto de obturador a la cámara
 * Conecte el remoto de flash TTL a la parte superior de la cámar
@@ -38,7 +38,7 @@ Asegúrese de que:
 			* Haga click en Done (Listo)
 			* Haga click en OK.
 
-###  Ajusta el Pack de Batería Light &amp; el Remoto de Flash TTL
+###  Ajusta el pack de batería light &amp; el remoto de Flash TTL
 
 En Pack de Batería:
 * Revise para asegurarte de que las luces están conectadas al pack de batería.
@@ -60,7 +60,7 @@ En el Remoto de Flash TTL:
 	* Guarde el localID (número en la parte trasera del poster) en el campo "Copy Name" (copiar nombre) en la sección de Metadatos.
 	* Repita hasta que todos los posters estén fotografiados.
 
-### Finaliza la Captura
+### Finaliza la captura
 
 * Ponga la tapa en el lente de la cámara
 * Remueva la cámara del trípode

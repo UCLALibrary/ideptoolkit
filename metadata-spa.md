@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guía para Metadatos
+title: Guía para metadatos
 menu: true
 order: 2
 lang: Español
@@ -26,7 +26,7 @@ Dado que los creadores de metadatos pueden no tener el tiempo o recursos para aj
 
 Adicionalmente, la Biblioteca Digital puede estructurar servicios más robustos (como funciones de búsqueda avanzada) en torno a metadatos más completos. Si los creadores de metadatos no pueden proveer los elementos recomendados por su cuenta, los invitamos a consultar con la Biblioteca Digital de UCLA y/o colaborar con otros participantes para añadir o mejorar los récords.
 
-## Plantilla de Metadatos
+## Plantilla de metadatos
 
 Los metadatos para las colecciones IDEP deben ser entregados a la Biblioteca Digital de UCLA en hojas de cálculo. Para facilitar este proceso, la Biblioteca Digital de UCLA ha creado una Plantilla de Metadatos que puede ser usada como punto de partida para recolectar y guardar metadatos para la descripción de colecciones IDEP. La plantilla incluye columnas pre-formateadas para campos **Requeridos `*`** y **Recomendados,** como también descripciones, enlaces a recursos, e instrucciones de uso.
 
