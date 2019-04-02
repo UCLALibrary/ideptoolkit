@@ -48,15 +48,6 @@ Used for translations of the title. Titles in non-English languages should be tr
 #### C. Alternative Title
 Used if the work is known by another title or has a variant.
 
-```
-EXAMPLES
-* Déjeuner sur l’Herbe
-* Bacot family papers
-* Sonatas for violin and piano
-* Australian aboriginal painting about AIDS
-* 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains
-```
-
 ### 3. Creator / Contributor (Recommended)
 
 #### A. Creator
@@ -90,7 +81,7 @@ EXAMPLES (Contributor)
 The name and place of the publisher for published resources. Can also include volume and issue for periodicals.
 
 #### A. Publisher
-If the item is published, add the publisher name here. The publisher name should be taken from the resource if available. If no publisher is provided,V but the publisher is known, use a standard naming authority file, such as:
+If the item is published, add the publisher name here. The publisher name should be taken from the resource if available. If no publisher is provided, but the publisher is known, use a standard naming authority file, such as:
 * Library of Congress Subject Headings: [http://id.loc.gov/authorities/names.html](http://id.loc.gov/authorities/names.html)
 * VIAF: [https://viaf.org](https://viaf.org)
 
@@ -166,13 +157,13 @@ This field contains both the English term for the language as well as the ISO la
 ##### Preferred sources for Language codes:
 * Codes for the representation of names of languages (ISO 639-3): [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
 
-If non-textual material such as photographs, enter `zxx` (no linguistic content)
+For non-textual materials such as photographs, enter `zxx` (no linguistic content)
 ```
 EXAMPLES
 * Arabic | ara
 * Japanese | jpn
 ```
-** A bilingual newsletter in both Spanish and English should have one language column for `Spanish | spa` and another for `English | eng`
+** A bilingual newsletter in both Spanish and English should have two language columns - one column for `Spanish | spa` and another column for `English | eng`.
 
 ### 7. Type (Required)
 The nature or genre of the content of the resource. To describe the file format, physical medium, or dimensions of the resource, use the Physical Description element below.
@@ -187,9 +178,9 @@ EXAMPLES
 ```
 
 #### B. Genre
-A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in TypeOfResource. The metadata template contains a pull-down menu of the acceptable terms. 
+A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than the terms used in TypeOfResource. The metadata template contains a pull-down menu of the acceptable terms. 
 
-An items can have multiple genre terms. For multiple terms, separate the terms with the pipe character ` | `. For example, `postcards | autographs`.
+An item can have multiple genre terms. For multiple terms, separate the terms with the pipe character ` | `. For example, `postcards | autographs`.
 
 ##### Preferred sources for Genre terms:
 * Getty Art & Architecture Thesaurus Online (AAT): [http://www.getty.edu/research/tools/vocabularies/aat/](http://www.getty.edu/research/tools/vocabularies/aat/)
@@ -203,30 +194,40 @@ EXAMPLES
 ```
 
 ### 8. Physical Description (Required*)
-The Physical Description element may be used to record information about the resource: extent, dimensions, and medium.
+The Physical Description element may be used to record information about the physical features of a resource, such as the extent, dimensions, and medium.
 
-* **PhysicalDescription.extent** (Required) – Number of items, number of pages, or duration (length, such as seconds) of the resource. (May be the same whether referring to the original resource or the digital object.)
-* **PhysicalDescription.dimensions** (Recommended) – The measurements of the original resource, including its size or scale.
-* **PhysicalDescription.medium** – The material or physical carrier of the resource (i.e. the materials of which the resource is composed).
+* **Extent** (Required) – Number of items, number of pages, or duration (length, such as seconds) of the resource. (May be the same whether referring to the original resource or the digital object.)
 
 ```
 EXAMPLES
-* PhysicalDescription.extent: 22 pp.
-* PhysicalDescription.extent: 95 min.
-* PhysicalDescription.dimensions: 61 x 43 cm. (24 x 17 in.)
-* PhysicalDescription.dimensions: 161.5 cm. (circumference, sphere)
-* PhysicalDescription.medium: pen and ink on paper
+* 22 pp.
+* 95 min.
+```
+
+* **Dimensions** (Recommended) – The measurements of the original resource, including its size or scale.
+
+```
+EXAMPLES
+* 61 x 43 cm. (24 x 17 in.)
+* 161.5 cm. (circumference, sphere)
+```
+
+* **Medium** – The material or physical carrier of the resource (i.e. the materials of which the resource is composed).
+
+```
+EXAMPLES
+* pen and ink on paper
 ```
 
 ### 9.  Institution/Repository and Physical Collection information (Required)
 #### A. Institution/Repository
-The name of the repository where the resource is currently located.
+The name of the repository where the physical resource is currently located.
 
 ##### Preferred sources for Organizational Names:
 * Virtual International Authority File (VIAF): [https://viaf.org](https://viaf.org)
 * Library of Congress Name Authority File (LCNAF): [http://id.loc.gov/authorities/names.html](http://id.loc.gov/authorities/names.html)
 
-If an organization does not appear in an authority file, enter it  according to the preferred form from the organization.
+If an organization does not appear in an authority file, enter it according to the preferred form from the organization.
 
 ```
 EXAMPLES
@@ -235,7 +236,7 @@ EXAMPLES
 ```
 
 #### B. Physical or archival collection name
-If items are part of a physical collection (e.g. archival),  enter the name of the local physical collection
+If items are part of a physical collection (e.g. archival),  enter the name of the physical collection.
 ```
 EXAMPLES
 * Salton Sea Photographic Scrapbooks
@@ -250,7 +251,7 @@ EXAMPLES
 ```
 
 #### D. Box number / Folder number
-If the archival collection is stored in boxes and folders, record the box and folder numbers here
+If the archival collection is stored in boxes and folders, record the box and folder numbers in this field.
 ```
 EXAMPLES
 * box 26
@@ -284,7 +285,7 @@ An account of the content of the resource, and other descriptive information abo
 Used to record a succinct summary of the content or context of the resource.
 
 #### B. Note (English and Original Language)
-Used for information that is not encoded in another, more specific MODS element.
+Used for information that is not encoded in another, more specific field.
 ```
 EXAMPLES
 * Inscription: "Longhaired" Palisades High School students protest school's demand that they get hair cut. [from caption on resource.]
