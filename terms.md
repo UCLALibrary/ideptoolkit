@@ -37,7 +37,7 @@ The title of the resource being described. Titles may be transcribed or supplied
 
 Do not include initial definite or indefinite articles in the title (The, A, An). Use standard title capitalization of the language used.
 
-There are two types of titles:
+There are three types of titles:
 
 #### A. Title (Original Language)
 The primary title that will be used for sorting. This can be in English or in the language of the resource.
@@ -171,8 +171,8 @@ If non-textual material such as photographs, enter `zxx` (no linguistic content)
 EXAMPLES
 * Arabic | ara
 * Japanese | jpn
-* A bilingual newsletter in both Spanish and English should have one language column for “Spanish | spa” and another for “English | eng”
 ```
+>> A bilingual newsletter in both Spanish and English should have one language column for `Spanish | spa` and another for `English | eng`
 
 ### 7. Type (Required)
 The nature or genre of the content of the resource. To describe the file format, physical medium, or dimensions of the resource, use the Physical Description element below.
