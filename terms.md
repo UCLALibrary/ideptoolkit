@@ -172,7 +172,7 @@ EXAMPLES
 * Arabic | ara
 * Japanese | jpn
 ```
->> A bilingual newsletter in both Spanish and English should have one language column for `Spanish | spa` and another for `English | eng`
+** A bilingual newsletter in both Spanish and English should have one language column for `Spanish | spa` and another for `English | eng`
 
 ### 7. Type (Required)
 The nature or genre of the content of the resource. To describe the file format, physical medium, or dimensions of the resource, use the Physical Description element below.
