@@ -187,7 +187,9 @@ EXAMPLES
 ```
 
 #### B. Genre
-A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in TypeOfResource. The metadata template contains a pull-down menu of the acceptable terms. An items can have multiple genre terms.
+A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than terms used in TypeOfResource. The metadata template contains a pull-down menu of the acceptable terms. 
+
+An items can have multiple genre terms. For multiple terms, separate the terms with the pipe character ` | `. For example, `postcards | autographs`.
 
 ##### Preferred sources for Genre terms:
 * Getty Art & Architecture Thesaurus Online (AAT): [http://www.getty.edu/research/tools/vocabularies/aat/](http://www.getty.edu/research/tools/vocabularies/aat/)
