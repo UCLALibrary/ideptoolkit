@@ -18,9 +18,6 @@ permalink: /digprint-ara
 	 * العدسة الرئيسية  60mm  (ملاحظة: هذه هي العدسة المفضله في التصوير).
 ![](../assets/img/digprint/image7.png)![](../assets/img/digprint/image8.png)
 
-
-
-
 3. شاحن بطارية الكاميرا.
 ![](../assets/img/digprint/image29.png)
 
@@ -59,11 +56,8 @@ permalink: /digprint-ara
 17.  أداة إزالة الغبار – دفق الهواء.
 ![](../assets/img/digprint/image14.png)
 
-
-
 18. أداة التحكم في مستويات الاضاءه , والأشرطه اللاصقه.
 ![](../assets/img/digprint/image18.png)![](../assets/img/digprint/image20.png)
-
 
 19.  قطع قماش ناعمه للتنظيف.
 ![](../assets/img/digprint/image31.png)
@@ -104,17 +98,17 @@ permalink: /digprint-ara
 **إعدادات الكاميرا.** ملاحظة: راجع دليل الكاميرا، وخاصة الصفحات 1-7، للمساعدة في ضبط وإيجاد الإعدادات وكذلك التعرف على الكاميرا.
 
 * 100 - ISO
-![](../assets/img/digprint/image1.png)![](../assets/img/digprint/image30.png)
+![](../assets/img/digprint/d810_iso-01.jpg)![](../assets/img/digprint/d810_iso-02.jpg)
+* **M** - Mode
+![](../assets/img/digprint/d810_shootingmode_m-01.jpg)
  * المنفذ – يتم تحديدها من f/8  الى f/11. الايقاف التدريجي والمعروف ايضا بتقليل حجم المنفذ , وزياده عمق الميدان (كم هو عمق الكائن، أو المسافة من الكاميرا، ولا تزال في نطاق التركيز). منفذ أضيق يمكن ان يقوم بتحسين  الحدة العامة.
-![](../assets/img/digprint/image24.png)
-
+![](../assets/img/digprint/d810_shootingmode_a-02.jpg)
 * سرعة الغالق 1/60 من الثانية ( أو أسرع، مثل 1/125 أو 1/250 من  الثانية؛ تبدأ في 1/60 وتضبط عند استكشاف الأخطاء وإصلاحها ). لا تتجاوز 1/250 من الثانية عند استخدام نظام الكاميرا بدون فلاش.
-![](../assets/img/digprint/image4.png)
-
+![](../assets/img/digprint/d810_shootingmode_s-02.jpg)
 * توازن اللون الأبيض - 5000K أو فلاش
-![](../assets/img/digprint/image25.png)
-
+![](../assets/img/digprint/d810_whitebalance-01.jpg)![](../assets/img/digprint/d810_whitebalance-02.jpg)
 * نمط الصورة – التقاط الصور في RAW ، و **ليس** RAW + JPEG (يتم إنشاء المشتقات بعد التقاط الصور)
+![](../assets/img/digprint/qual1.png)
 
 **إعداد الحامل ثلاثي القوائم والكاميرا**
 
