@@ -111,7 +111,7 @@ Example:
 * Mode - Set to **M**
 ![](../assets/img/digprint/d810_shootingmode_a-01.jpg)
 * Aperture – Set between f/8 and f/11, starting with f/8. Stopping down, aka decreasing the size of the aperture, increases the depth of field (how much of the object's depth, or distance from the camera, remains in focus). A narrower aperture can improve overall sharpness.
-![](../assets/img/digprint/image24.png)
+![](../assets/img/digprint/d810_shootingmode_a-02.jpg)
 * Shutter speed – Set between 1/60<sup>th</sup> of a second (60) and 1/125<sup>th</sup> (125). Start at 1/60th and adjust as needed. Do not exceed 1/250th of a second when using the Off Camera Flash System.
 ![](../assets/img/digprint/image4.png)
 * White balance – 5000K or Flash (the lightning bolt symbol)
