@@ -105,15 +105,18 @@ Ejemplo:
 * Foco Automático: Girar el anillo de modo A-M de la lente mientras se presiona el botón que libera el anillo de modo A-M, seleccionando A para foco automático.
 
 **AJUSTES DE LA CÁMARA.** Nota: Revisar el manual de la cámara, y especialmente las páginas 1-7, para ayuda con los ajustes como también para conocer la cámara.
-* ISO-100
-![](../assets/img/digprint/image1.png)![](../assets/img/digprint/image30.png)
-* Apertura - Ajustar desde f/8 hasta f/11. Bajar los stops (o pasos), también conocido como disminución del tamaño de apertura, aumenta la profundidad de campo (qué parte de la profundidad del objeto, o la distancia desde la cámara, se mantiene en foco). Una apertura más pequeña puede mejorar la nitidez general.
+* ISO - 100
+![](../assets/img/digprint/d810_iso-01.jpg)![](../assets/img/digprint/d810_iso-02.jpg)
+* Mode - Ajustar a **M**
+![](../assets/img/digprint/d810_shootingmode_m-01.jpg)
+* Apertura - Ajustar entre f/8 y f/11, comenzando con f/8. Bajar los stops (o pasos), también conocido como disminución del tamaño de apertura, aumenta la profundidad de campo (qué parte de la profundidad del objeto, o la distancia desde la cámara, se mantiene en foco). Una apertura más pequeña puede mejorar la nitidez general.
 ![](../assets/img/digprint/image24.png)
-* Velocidad de obturador - 1/60vo de segundo (o más rápido, como 1/125vo o 1/150vo de segundo; comenzar con 1/60vo y ajusta durante la prueba). No sobrepasar los 1/250vo de segundo utilizar el Sistema de Flash Externo.
-![](../assets/img/digprint/image4.png)
+* Velocidad de obturador - Ajustar entre 1/60vo (60) de segundo y 1/125vo (125). Comenzar con 1/60vo y ajusta durante la prueba). No sobrepasar los 1/250vo de segundo utilizar el Sistema de Flash Externo.
+![](../assets/img/digprint/d810_shootingmode_s-02.jpg)
 * Balance de Blancos - 5000K o Flash (el símbolo de rayo)
-![](../assets/img/digprint/image25.png)
+![](../assets/img/digprint/d810_whitebalance-01.jpg)![](../assets/img/digprint/d810_whitebalance-02.jpg)
 * Formato de Imagen - captura en RAW (en bruto), **no** RAW + JPEG (los derivados son creados después de la captura).
+![](../assets/img/digprint/qual1.png)
 
 **Ajusta el trípode y la cámara**
 * Lea las instrucciones del trípode y las cabezas de trípode para entender sus características y funcionalidades.
