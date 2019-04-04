@@ -106,15 +106,18 @@ Example:
 * Autofocus: Rotate the A-M mode ring on the lens while pressing the A-M mode ring release button, selecting A for autofocus.
 
 **CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7 for help with adjusting and finding settings as well as getting to know the camera.
-* ISO – 100
+* ISO – Set to **100**
 ![](../assets/img/digprint/image1.png)![](../assets/img/digprint/image30.png)
-* Aperture – Set from f/8 to f/11. Stopping down, aka decreasing the size of the aperture, increases the depth of field (how much of the object's depth, or distance from the camera, remains in focus). A narrower aperture can improve overall sharpness.
+* Mode - Set to **M**
+![](../assets/img/digprint/d810_shootingmode_a-01.jpg)
+* Aperture – Set between f/8 and f/11, starting with f/8. Stopping down, aka decreasing the size of the aperture, increases the depth of field (how much of the object's depth, or distance from the camera, remains in focus). A narrower aperture can improve overall sharpness.
 ![](../assets/img/digprint/image24.png)
-* Shutter speed – 1/60<sup>th</sup> of a second (or faster, such as 1/125th or 1/250th of a second; start at 1/60th and adjust when troubleshooting). Do not exceed 1/250th of a second when using the Off Camera Flash System.
+* Shutter speed – Set between 1/60<sup>th</sup> of a second (60) and 1/125<sup>th</sup> (125). Start at 1/60th and adjust as needed. Do not exceed 1/250th of a second when using the Off Camera Flash System.
 ![](../assets/img/digprint/image4.png)
 * White balance – 5000K or Flash (the lightning bolt symbol)
 ![](../assets/img/digprint/image25.png)
 * Image format – shoot in RAW, **not** RAW + JPEG (derivatives are created after capture)
+![](../assets/img/digprint/qual1.png)![](../assets/img/digprint/qual2.png)![](../assets/img/digprint/qual3.png)
 
 **Set up tripod and camera**
 * Read the instructions for the tripod and tripod head, in order to understand their features and functionality.
