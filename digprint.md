@@ -103,7 +103,9 @@ Example:
 
 **LENS SETTINGS**
 * The aperture on the lens should be set to the smallest setting (f/32 on the 60mm)
+![](../assets/img/digprint/nikon-60mm-ap.jpg)
 * Autofocus: Rotate the A-M mode ring on the lens while pressing the A-M mode ring release button, selecting A for autofocus.
+![](../assets/img/digprint/nikon-60mm-focus.jpg)
 
 **CAMERA SETTINGS.** Note: Review the camera manual, and especially pages 1-7 for help with adjusting and finding settings as well as getting to know the camera.
 * ISO – Set to **100**

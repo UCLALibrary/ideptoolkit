@@ -102,7 +102,9 @@ Ejemplo:
 
 **AJUSTES DE LENTE**
 * La apertura de la lente debe ser ajustada al menor valor (f/32 en el de 60mm).
+![](../assets/img/digprint/nikon-60mm-ap.jpg)
 * Foco Automático: Girar el anillo de modo A-M de la lente mientras se presiona el botón que libera el anillo de modo A-M, seleccionando A para foco automático.
+![](../assets/img/digprint/nikon-60mm-focus.jpg)
 
 **AJUSTES DE LA CÁMARA.** Nota: Revisar el manual de la cámara, y especialmente las páginas 1-7, para ayuda con los ajustes como también para conocer la cámara.
 * ISO - 100
