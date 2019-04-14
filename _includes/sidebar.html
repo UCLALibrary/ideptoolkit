@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{% if page.lang != site.defaultlang %}{{ page.lang | prepend: site.baseurl }}{% else %}{{ site.baseurl }}{% endif %}">
+        <a href="{{ site.baseurl }}{{ site.t[page.lang].home }}">
           {{ site.title }}
         </a>
       </h1>
@@ -11,7 +11,7 @@
 
     <nav class="sidebar-nav">
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
+        The code below dynam    ically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 

@@ -33,9 +33,12 @@ t:
   Español:
     title:        ''
     description:  'Una guía de estándares y flujos de trabajo para las instituciones asociadas al IDEP.'
+    home:   index-spa
   հայերեն:
     title:        ''
     description:  'IDEP գործընկեր հաստատությունների համար ստանդարտների եւ աշխատանքի արդյունքի ուղեցույց:'
+    home:   index-arm
   عربى:
     title:        ''
     description:  'دليل إرشادي للمشروع الدولي لرقمنة المطبوعات العابرة'
+    home:   index-ara
