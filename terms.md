@@ -115,7 +115,7 @@ Where exact dates are unknown, metadata contributors should provide a range of p
 #### A. Date (human) (Recommended)
 This is a human-readable date that will display on the item view page.
 
-#### B. Date (ISO): (single date OR date range) (Required)
+#### B. Date (ISO) (Required)
 A machine-readable date suitable for processing (e.g. search limiting, results sorting), following the format `YYYY-MM-DD` (year-month-day).
 
 For a date range in the **Date (ISO) column**, separate the starting and end dates with a forward slash `/`.
