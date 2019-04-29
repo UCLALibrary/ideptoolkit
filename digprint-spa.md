@@ -286,8 +286,8 @@ Incluya en la carpeta un archivo `README.txt` que explique tu formato de nombram
 ### Utilizando el software XRITE Color Checker para crear un negativo digital y perfil de Lightroom Color.
 
 Nota: La documentación que viene con el software entrega instrucciones paso a paso.
-1. Inserte el disco.
-2. Instale el software.
+1. Inserte el disco. (solo la primera vez)
+2. Instale el software. (solo la primera vez)
 3. Usando Lightroom, guarde la imagen que contiene en vista como un .DNG el Color Checker Passport.
 4. Abra la imagen de referencia DNG en el software Color Checker Passport.
 5. El software encontrará las muestras.
@@ -296,6 +296,6 @@ Nota: La documentación que viene con el software entrega instrucciones paso a p
 8. Reinicie Lightroom para aplicar el archivo .DCP.
 9. Vaya al modo Develop (desarrollo) en Lightroom.
 10. En el panel lateral, desplace hacia abajo a Camera Calibration (Calibración de cámara). En esta ventana, haga click en el menú desplegable junto a "Profile" (perfil).
-11. El perfil que creó debe aparecer en esa lista. Haga click para aplicar la imagen seleccionada. Puede seleccionar también todas las imágenes que fueron capturadas bajo las mismas condiciones de iluminación y aplicar el perfil a todas.
+11. El perfil que creó debe aparecer en esa lista. Haga click para aplicar la imagen seleccionada. Puede seleccionar también todas las imágenes que fueron capturadas bajo las mismas condiciones de iluminación y aplicar el perfil a todas. (Settings > Sync settings)
 12. Si el software Color Checker no está disponible o es inutilizable, puede igualmente utilizar la referencia de color para equilibrar los blancos de la imagen.
 13. Vaya al modo develop (desarrollo) en Lightroom. En White Balance (Balance de Blancos), haga click en el cuentagotas para seleccionar la muestra blanca en la referencia de color y el software debería ajustar los balances de blanco correctamente.
