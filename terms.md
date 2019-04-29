@@ -126,7 +126,7 @@ For a date range in the **Date (ISO) column**, separate the starting and end dat
 | -- | -- |
 | August 26, 2016 | 2016-08-26 |
 | 26 de agosto de 2016 | 2016-08-26 |
-| Aug 26, 2016 | 1969-08-02 |
+| Aug 26, 2016 | 2016-08-02 |
 | August 2001 | 2001-08 |
 | 2013-2016 | 2013/2016 |
 | Between 1967 and 1985 | 1967/1985 |
