@@ -112,42 +112,26 @@ A point or period of time associated with creation or publication of the resourc
 
 Where exact dates are unknown, metadata contributors should provide a range of possible dates for the resource, such as the decade or century in which it was created or published.
 
-#### A. Display date (Recommended)
+#### A. Date (human) (Recommended)
 This is a human-readable date that will display on the item view page.
-```
-EXAMPLES
-* August 26, 2016
-* 26 de agosto de 2016
-* Aug 26, 2016
-* 2013-2016
-```
 
-#### B. Normalized date: (single OR start/end) (Required)
+#### B. Date (ISO): (single date OR date range) (Required)
 A machine-readable date suitable for processing (e.g. search limiting, results sorting), following the format `YYYY-MM-DD` (year-month-day).
-```
-EXAMPLES
-* 2016-08-26
-* 2016
-* 2016-08
-```
-In the metadata template spreadsheet, notice there are separate columns in the spreadsheet for a single date vs. a date range. Use the fields following the examples below:
 
-**For a single date:**
-Date + Date (single)
+For a date range in the **Date (ISO) column**, separate the starting and end dates with a forward slash `/`.
 
-OR
+*EXAMPLES*
 
-**For a date range:**
-Date + Date (start) + Date (end)
-
-| Date | Date (single) | Date (start) | Date (end) |
-| -- | -- | -- | -- |
-| 1965 | 1965 | |
-| 1967-1985 | | 1967 | 1985 |
-| August 02, 1969 | 1969-08-02 | Between 1967 and 1985 | 1967/1985 |
-| August 2001 | | 2001-08-01 | 2001-08-31 |
-| 19th century | | 1801 | 1900 |
-| July or August 1991 | | 1991-07 | 1991-08 |
+| Date (human) | Date (ISO) |
+| -- | -- |
+| August 26, 2016 | 2016-08-26 |
+| 26 de agosto de 2016 | 2016-08-26 |
+| Aug 26, 2016 | 1969-08-02 |
+| August 2001 | 2001-08 |
+| 2013-2016 | 2013/2016 |
+| Between 1967 and 1985 | 1967/1985 |
+| 19th century | 1801/1900 |
+| July or August 1991 | 1991-07/1991-08 |
 
 ### 6. Language (Required)
 The language in which the content of the resource is expressed.
@@ -178,7 +162,7 @@ EXAMPLES
 ```
 
 #### B. Genre
-A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than the terms used in TypeOfResource. The metadata template contains a pull-down menu of the acceptable terms. 
+A category characterizing a particular style, form, or content, such as artistic, musical literary composition, etc. This qualifier allows for more specificity than the terms used in TypeOfResource. The metadata template contains a pull-down menu of the acceptable terms.
 
 An item can have multiple genre terms. For multiple terms, separate the terms with the pipe character ` | `. For example, `postcards | autographs`.
 
