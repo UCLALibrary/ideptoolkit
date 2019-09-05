@@ -2,7 +2,7 @@
 layout: page
 title: darktable (Print/Image)
 menu: true
-order: 4
+order: 10
 lang: English
 ref: darktable
 permalink: /darktable
