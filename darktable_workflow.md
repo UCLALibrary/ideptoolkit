@@ -1,3 +1,13 @@
+---
+layout: page
+title: darktable (Print/Image)
+menu: true
+order: 4
+lang: English
+ref: darktable
+permalink: /darktable
+---
+
 #### Open laptop and darktable
 1. Start up and log in to laptop
 2. Connect camera to laptop via USB3 tether cable
