@@ -15,7 +15,7 @@ permalink: /darktable
 	* Confirm darktable recognizes camera Nikon DSC D810 (the camera must be turned on)
 	* If camera is not recognized, navigate to the "lighttable view", expand the "import" menu in the top left of the window, and select "scan for devices"
 	* Once camera appears, select "tethered shoot"
-	![](darktable1.png)
+	![](../assets/img/darktable/darktable1.png)
 	* Or, navigate to tethering view by hovering over "other" tab dropdown, then click "tethering"
 	![](darktable2.png)
 4. Create a new roll by entering a "jobcode" in the session dropdown panel. In darktable, each session will be a unique roll.
