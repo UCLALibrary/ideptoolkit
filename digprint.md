@@ -12,6 +12,8 @@ permalink: /digprint
 
 ### Equipment list
 
+[expand]
+
 1. Nikon D810 camera body
 ![](../assets/img/digprint/image13.png)
 
@@ -79,6 +81,8 @@ permalink: /digprint
 21. AAA batteries for Profoto TTL Air Remote
 22. Carabiners, bungee cords, gear ties
 23. Colored background paper
+
+[/expand]
 
 ### Pre-capture preparation
 
@@ -178,24 +182,46 @@ Example:
 #### Attach shutter release cable
 Note: Shutter release has a lock. Unlock before detaching. The shutter can be triggered with the computer when shooting tethered.
 
-#### Open laptop and Lightroom
-1. Start up and log in to laptop
-2. Connect camera to laptop via USB3 tether cable
-3. Open Lightroom
+### START CAPTURE
+
+#### Setup Lightroom or darktable
+
+Start up and log in to laptop and connect camera to laptop via USB3 tether cable
+
+>If using Lightroom
+  * Open Lightroom
   * Create new catalog, name appropriately. Remember, this is a catalog in Lightroom, and it can contain multiple sessions. `Click File > Tethered Capture > Start Tethered Capture`
-![](../assets/img/digprint/image26.jpg)
+  ![](../assets/img/digprint/image26.jpg)
   * Lightroom will automatically find the camera in use. A box should pop up that says Nikon D810 is in use
   * Name the session you are in with a date (recommended), or collection name and session number
   * Set up your file naming convention in the "Naming" section. You can choose one of the existing templates, then choose "Edit" from the Template pull-down menu to create a custom naming template.
-![](../assets/img/digprint/image23.jpg)
+  ![](../assets/img/digprint/image23.jpg)
 
-### START CAPTURE
+>If using darktable
+  * Open darktable
+  * Confirm darktable recognizes camera Nikon DSC D810 (the camera must be turned on)
+  * If camera is not recognized, navigate to the "lighttable view", expand the "import" menu in the top left of the window, and select "scan for devices"
+  * Once camera appears, select "tethered shoot"
+![](../assets/img/darktable/darktable1.png)
+  * Or, navigate to tethering view by hovering over "other" tab dropdown, then click "tethering"
+![](../assets/img/darktable/darktable2.png)
+  * Create a new roll by entering a "jobcode" in the session dropdown panel. In darktable, each session will be a unique roll.
+  * click on the "session" dropdown > type in the "jobcode"
+![](../assets/img/darktable/darktable3.png)
+  * Name the session you are in with a date (recommended), or collection name and session number
 
 #### Test flash settings
-1. Take an image, ideally using the remote shutter release or button available in Lightroom so as not to create camera shake.
-2. Review image in Lightroom
+* Take an image, ideally using the remote shutter release or button available in Lightroom / darktable so as not to create camera shake.
+
+  >For darktable
+   * Click the eye icon in the live view panel to toggle view on laptop screen
+  ![](../assets/img/darktable/darktable5.png)
+   * In the camera settings panel, click "capture image(s)"
+  ![](../assets/img/darktable/darktable4.png)
+
+* Review image in Lightroom / darktable
 	* Zoom into the image – are things in focus?
-	* Look at Histogram – Is the image too dark or too light?
+	* Look at the Histogram – Is the image too dark or too light?
     * Histogram should be evenly distributed without too much information skewing right or left, if the hills are too far to the right the image will appear darker than it should be. If hills are too far to the left the image will appear lighter than it should be.
     * Adjusting the output in the battery pack may be needed at this point to either provide more or less light, depending on histogram. Adjust and troubleshoot until histogram looks evenly distributed.
 
@@ -204,7 +230,7 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 2. Place the target directly on the surface of the object to be digitized.
 3. Reference target should be photographed straight on with the same lighting that will be used to illuminate the materials. Avoid shadows and do not obscure color swatches on target when holding target in front of materials.
 
-#### Continue taking images and checking them in Lightroom
+#### Continue taking images and checking them in Lightroom / darktable
 1. Continually compare images to corresponding histogram to ensure evenly distributed light
 2. Keep an eye on battery levels on camera, lighting battery pack, laptop and flash remote
 
@@ -214,12 +240,12 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 * Keep white portion of softboxes clean and white for maximum use
 
 ### Post Capture Processing
-During capture the images in Lightroom will be in a RAW format. The best way to implement post capture changes is to do so to the .RAW file. Once all changes/edits have been made the files can be exported in TIFF or JPEG making them more functional across applications.
+During capture the images in Lightroom / darktable will be in a RAW format. The best way to implement post capture changes is to do so to the RAW file. Once all changes/edits have been made the files can be exported in TIFF or JPEG making them more functional across applications.
 
 Processing includes the following:
 1. Cropping/Skew
   * For master images leave ⅛" around image
-  * Use functions in Lightroom or Photoshop to straighten image if necessary
+  * Use functions in Lightroom / darktable to straighten image if necessary
 2. Color correction
   * Use XRite Color Checker software and reference images to correct color and apply color profiles (see section about Installing XRite Color Checker)
 3. Creating derivatives
@@ -227,9 +253,17 @@ Processing includes the following:
   * Choose resolution to export at (300 - 600 ppi)
 4. Back up work
   * It is recommended that work be mirrored on a hard drive when possible
-5. Exporting files to TIFF or JPEG format
-![](../assets/img/digprint/image16.png)
-![](../assets/img/digprint/image5.jpg)
+
+### Exporting files to TIFF format
+
+ >For Lightroom
+  ![](../assets/img/digprint/image16.png)
+  ![](../assets/img/digprint/image5.jpg)
+
+ >For darktable
+  * Define filenames in the "target storage" field.
+  * Pre-defined variables can be used as templates. A list of options is available in the darktable user manual section 2.3.12.1
+  ![](../assets/img/darktable/darktable7.png)
 
 ### File Specifications at a Glance
 * File format for master images: TIFF
@@ -275,18 +309,54 @@ For file naming conventions, see the "File Naming & Organization" Guide: [https:
 
 Include in the directory a `README.txt` file that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future.
 
-### Using XRITE Color Checker software to create a Digital Negative and Lightroom Color Profile
+### Using XRITE Color Checker software to create a Digital Negative and Lightroom / darktable Color Profile
 Note: Read Me documentation that comes with software provides step by step instructions.
 1. Insert disc (only the first time)
 2. Install software (only the first time)
-3. Using Lightroom, save the image containing the Color Checker Passport as a .DNG file
-4. Open the DNG reference image in Color Checker Passport software
-5. The software should automatically find the color swatches
-6. Click "Create Profile" to save,  name appropriately so that it can be recognized as a reference file
-7. Software will save as .DCP file (this is your color correction profile)
-8. Restart Lightroom to apply .DCP file
-9. Go to Develop mode in Lightroom
-10. In the side panel scroll down to Camera Calibration, in this window click the drop down menu next to "Profile"
-11. The profile you created should show up in that list, click to apply to the selected image or select all images that were shot under the same lighting condition as reference image and apply profile to all (Settings > Sync settings)
-12. If the Color checker software is unavailable or unusable you can still use the color reference target to white balance the image
-13. Go to develop mode in Lightroom, under white balance click the eyedropper, use the eyedropper to select the white patch on the color reference target and it should adjust the white balance correctly
+
+ >If using Lightroom
+  3. Using Lightroom, save the image containing the Color Checker Passport as a DNG file
+  4. Open the DNG reference image in Color Checker Passport software
+  5. The software should automatically find the color swatches
+  6. Click "Create Profile" to save,  name appropriately so that it can be recognized as a reference file
+  7. Software will save as .DCP file (this is your color correction profile)
+  8. Restart Lightroom to apply .DCP file
+  9. Go to Develop mode in Lightroom
+  10. In the side panel scroll down to Camera Calibration, in this window click the drop down menu next to "Profile"
+  11. The profile you created should show up in that list, click to apply to the selected image or select all images that were shot under the same lighting condition as reference image and apply profile to all (Settings > Sync settings)
+  12. If the Color checker software is unavailable or unusable you can still use the color reference target to white balance the image
+  13. Go to develop mode in Lightroom, under white balance click the eyedropper, use the eyedropper to select the white patch on the color reference target and it should adjust the white balance correctly
+
+ >If using darktable
+  1. Using darktable, export the image containing the Color Reference Target as a TIFF file
+  2. Open the ColorChecker Passport software, navigate to the ICC-TIFF panel, and drag-and-drop the TIFF image
+  3. The software should automatically find the color swatches
+  4. Click "Create Profile" to save, name appropriately so that it can be recognized as a reference file for the corresponding session. A new profile will be created for each session.
+  5. The software will save the profile as an .ICC file, likely to `/[useraccount]/Libary/ColorSync/Profiles`.
+  6. Copy this .ICC file to `[useraccount]/.config/darktable/color/in`.
+  7. Restart darktable and navigate to the darkroom tab and find the "input color profile" list. The profile you created should show up in the input color profile list drop down.
+  8. Apply profile to the selected image
+  9. If the image appears dark after applying the profile, click `more modules > unbreak user input profile`.
+  ![](../assets/img/darktable/darktable12.png)
+      * change mode to "gamma" from the drop-down menu
+      * set linear value between 0.0 and 0.1, making sure that full range of shadows and highlights remain intact in the histogram
+      * set gamma value to 0.45, adjust if needed to make sure that full range of shadows and highlights remain intact in the histogram
+  10. Apply profile to all images that were shot under the same lighting condition by using the "history stack"
+  ![](../assets/img/darktable/darktable11.png)
+      * With the Color Reference Target image still selected, navigate to the lighttable tab and expand the "history stack" module
+      * Click "copy", then select all edits relevant to the entire session of images. Click "ok".
+      * Select the entire session of images, and click "paste" in the history stack module.
+
+ >### White Balance Using darktable
+  *Note: this method adjusts image white balance but does not correct color. This step is not necessary if an XRITE .ICC profile is applied, and serves as a last resort for editing if using a color profile is not an option.*
+  1. Select the image with the Color Reference Target
+  2. Navigate to the darkroom tab and expand the white balance section. From the "preset" dropdown, select "spot".
+  ![](../assets/img/darktable/darktable10.png)
+  3. Within the image, select an area from the light grey square on the color palette. The white balance is calculated based on the selected area.
+  ![](../assets/img/darktable/darktable8.png)
+  4. Review the resulting edit in darktable -- is the image too warm or cool? Do colors accurately represent the material? If not, repeat the previous steps using a different selection of grey area from the color palette.
+  5. Apply the white balance edit to all images that were shot under the same lighting condition by using the "history stack".
+  ![](../assets/img/darktable/darktable11.png)
+      * With the white balance-corrected image still selected, navigate to the lighttable tab and expand the "history stack" module
+      * Click "copy," then select the white balance edit and any other color correction edits that may be relevant to the entire session of images
+      * Select the entire session of images, and click "paste"
