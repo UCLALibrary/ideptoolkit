@@ -139,10 +139,7 @@ Ejemplo:
 * Use cinta para hacer marcas en el suelo en los lugares donde están posicionados las patas del trípode para mantener consistencia en la distancia.
 * Enganche el mosquetón algún tipo de bolsa o peso y engánchela al trípode (hay un anillo de enganche) de modo que el trípode tenga un contrapeso y permanezca estable.
 
-### Ajuste de iluminación
-
-#### Ajuste de luces
-
+### Ajuste de luces
 1. Lea las instrucciones del Kit Air Profoto B2 250 y del control remoto Air TTL-N.
 2. Asegúrese de que la batería está cargada (el cargador está incluido en el kit. La batería está ubicada en el fondo del pack y puede removerse para ser cargada).
 3. Instale los soportes de luz.
@@ -175,7 +172,6 @@ Ejemplo:
 4. **Nota: el remoto de flash a veces se va a modo suspendido cuando no es utilizado durante unos minutos, sólo encienda nuevamente el remoto de flash y reajusta el modo a "MAN".**
 
 #### Ajuste de foco de cámara
-
 1. Utilice el visor para mirar los materiales y ajustar el foco lo más claro posible.
 2. Abra la visión en vivo en el monitor LCD y haz zoom en cualquier texto o líneas distintivas y ajuste el foco hasta que se vean lo más claras posibles. Nota: no están haciendo zoom al lente, SÓLO a la visión en vivo, para ajustar foco.
 3. Asegure con cinta el anillo focal de forma de que no cambie a lo largo de la captura, especialmente si está capturando mirando hacia abajo (los anillos focales tienden a desviarse).
@@ -184,7 +180,6 @@ Ejemplo:
 Nota: el disparo de obturador tiene un cierre de bloqueo. Ábralo antes de desconectar. El obturador puede ser disparado con la computadora cuando el disparador está conectado.
 
 ### COMENZAR LA CAPTURA
-
 Encendido de la computadora portátil y conecte la cámara a la computadora a través del cable USB3.
 
 > Si estas usando Lightroom
@@ -224,7 +219,6 @@ Encendido de la computadora portátil y conecte la cámara a la computadora a tr
 	  * Es posible que sea necesario ajustar la salida del pack de batería en este momento para proveer más o menos luz, dependiendo del histograma. Ajuste y pruebe hasta que el histograma se vea distribuido de forma uniforme.
 
 #### Toma una foto con la tarjeta de referencia de color.
-
 1. La foto de referencia debe ser tomada al comienzo de cada sesión cuando las condiciones de iluminación o ajustes de exposición han cambiado o cuando los materiales que están siendo capturados sean de tamaños o tipos diferentes.
 2. Pon la tarjeta directamente en la superficie del objeto a digitalizar.
 3. La tarjeta de referencia debe ser fotografiada derecha con la misma iluminación que será usada para iluminar los materiales. Evite las sombras y no oscurezca las muestras de color de la tarjeta al sujetar la referencia en frente de los materiales.
@@ -273,7 +267,6 @@ El procesamiento incluye lo siguiente:
 * Espacio de color: sRGB o Adobe RGB 1998
 
 ### Tips para el control de la calidad de imagen
-
 Lo siguiente es una lista simplificada de puntos chequeo de control de calidad a considerar durante y después de la digitalización. Revisa lo siguiente:
 * Formato - cada imagen está en el formato correcto.
 * Compresión - los archivos están comprimidos o dejados sin comprimir de acuerdo a las instrucciones del proyecto
@@ -287,7 +280,6 @@ Lo siguiente es una lista simplificada de puntos chequeo de control de calidad a
 * Cortado - las imágenes están cortadas de forma apropiada (por defecto = ⅛ de pulgada por cada lado) o de acuerdo a las instrucciones del proyecto.
 
 ### Nombres de archivo y estructura de carpetas
-
 **Mejores Prácticas**
 
 Los nombres de archivo y las estructuras bien organizadas hacen más fácil seguir los datos. Al nombrar y organizar archivos, debe ser consistente y descriptivo para que sea posible encontrar datos específicos y saber qué contienen los archivos y cuál es su estatus. Determine una estructura de directorios clara que incluya información como título de proyecto, una fecha, y algún tipo de identificador único. Pueden crearse directorios individuales de acuerdo a fecha, investigador, corrida experimental o cualquier categoría que tenga sentido para ti y tus necesidades de investigación.
@@ -310,7 +302,6 @@ Para convenciones de nombres de archivos, ver la Guía "Nombres de Archivo &amp;
 Incluya en la carpeta un archivo `README.txt` que explique tu formato de nombramiento junto con cualquier abreviación o códigos que haya usado. Esta documentación será muy útil tanto durante el proyecto o experimento, y también en el futuro.
 
 ### Utilizando el software XRITE Color Checker para crear un negativo digital y perfil de color de Lightroom / Darktable.
-
 Nota: La documentación que viene con el software entrega instrucciones paso a paso.
 1. Inserte el disco. (solo la primera vez)
 2. Instale el software. (solo la primera vez)
@@ -333,8 +324,8 @@ Nota: La documentación que viene con el software entrega instrucciones paso a p
   2. Abra el software ColorChecker Passport, navegue hasta el panel ICC-TIFF y arrastre la imagen TIFF
 	3. El software encontrará las muestras.
   4. Haga click en "Create Profile" (Crear perfil) para guardar. Nómbrelo apropiadamente para que pueda ser reconocido como un archivo de referencia.
-  5. El software se guardará como un archivo .ICC, probablemente en /User/yourname/Libary/ColorSync/Profiles
-  6. Copie este archivo .ICC a `[useraccount]/.config/darktable/color/in`.
+  5. El software se guardará como un archivo .ICC, probablemente en `[user]/Libary/ColorSync/Profiles`.
+	6. Copie este archivo .ICC a `[user]/.config/darktable/color/in`.
   7. Reinicie darktable y navegue hasta la pestaña "cuarto oscuro" > "grupo de colores" > "perfil de color de entrada"
   8. El perfil que creó debería aparecer en la lista desplegable de perfil de color de entrada. Haga clic en el perfil para aplicarlo a la imagen seleccionada
   9. Si la imagen parece oscura después de aplicar el perfil, haga clic en "más módulos" > "corregir perfil de entrada de usuario"  
