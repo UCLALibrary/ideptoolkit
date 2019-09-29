@@ -332,8 +332,8 @@ Note: Read Me documentation that comes with software provides step by step instr
   2. Open the ColorChecker Passport software, navigate to the ICC-TIFF panel, and drag-and-drop the TIFF image
   3. The software should automatically find the color swatches
   4. Click "Create Profile" to save, name appropriately so that it can be recognized as a reference file for the corresponding session. A new profile will be created for each session.
-  5. The software will save the profile as an .ICC file, likely to `/[useraccount]/Libary/ColorSync/Profiles`.
-  6. Copy this .ICC file to `[useraccount]/.config/darktable/color/in`.
+  5. The software will save the profile as an .ICC file, likely to `/[user]/Libary/ColorSync/Profiles`.
+  6. Copy this .ICC file to `[user]/.config/darktable/color/in`.
   7. Restart darktable and navigate to the darkroom tab and find the "input color profile" list. The profile you created should show up in the input color profile list drop down.
   8. Apply profile to the selected image
   9. If the image appears dark after applying the profile, click `more modules > unbreak user input profile`.
