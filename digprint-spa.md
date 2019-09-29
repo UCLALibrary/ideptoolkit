@@ -194,10 +194,10 @@ Encendido de la computadora portátil y conecte la cámara a la computadora a tr
 > Si estas usando Darktable
   * Abra darktable
 	* Confirme que darktable reconozca la cámara Nikon DSC D810 (la cámara debe estar encendida)
-	* Si no se reconoce la cámara, navegue hasta la "vista de mesa de luz", expanda el menú "importar" en la parte superior izquierda de la ventana y seleccione "buscar dispositivos"
+	* Si no se reconoce la cámara, navegue hasta la vista "mesa de luz", expanda el menú "importar" en la parte superior izquierda de la ventana y seleccione "buscar dispositivos"
 	* Cuando aparezca la cámara, seleccione "captura mediante conexión"
 	![](../assets/img/darktable/darktable1.png)
-	* O navegue hasta la vista de conexión al pasar el cursor sobre la pestaña desplegable "otro" y luego haga clic en "conexión"
+	* O navegue hasta la vista de conexión al pasar el cursor sobre la pestaña desplegable "otro" y luego haga clic en "captura"
 	![](../assets/img/darktable/darktable2.png)
 	* Cree un nuevo rollo al ingresar un "código de trabajo" en el panel desplegable de la sesión. En darktable, cada sesión será un rollo único
 	* Haga clic en el menú desplegable "sesión" > ingrese el "código de trabajo"

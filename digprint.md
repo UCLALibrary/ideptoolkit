@@ -200,7 +200,7 @@ Start up and log in to laptop and connect camera to laptop via USB3 tether cable
 >If using darktable
   * Open darktable
   * Confirm darktable recognizes camera Nikon DSC D810 (the camera must be turned on)
-  * If camera is not recognized, navigate to the "lighttable view", expand the "import" menu in the top left of the window, and select "scan for devices"
+  * If camera is not recognized, navigate to the "lighttable" view, expand the "import" menu in the top left of the window, and select "scan for devices"
   * Once camera appears, select "tethered shoot"
 ![](../assets/img/darktable/darktable1.png)
   * Or, navigate to tethering view by hovering over "other" tab dropdown, then click "tethering"
