@@ -277,8 +277,8 @@ Processing includes the following:
 The following is a simplified list of quality control checkpoints to consider during and after digitization. Check for the following:
 * Format  - each image is in the correct format.
 * Compression - files are compressed or left uncompressed per the project instructions
-* Bit Depth - correct bit depth has been selected (check metadata in Lightroom)
-* Resolution - 300 - 600 ppi, 400 ppi and up for OCR purposes (check metadata in Lightroom)
+* Bit Depth - correct bit depth has been selected (check metadata in Lightroom / Darktable)
+* Resolution - 300 - 600 ppi, 400 ppi and up for OCR purposes (check metadata in Lightroom / Darktable)
 * Color - output color closely matches true color of the materials, correct color mode has been selected.
 * Orientation - all images are oriented correctly, no distortion or proportion irregularities.
 * No physical matter - no dirt, dust, etc. obstructing the view of the item.
