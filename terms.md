@@ -16,7 +16,7 @@ permalink: /terms
 - [5. Date (Required)](#5-date-required)
 - [6. Language (Required)](#6-language-required)
 - [7. Type (Required)](#7-type-required)
-- [8. Physical Description (Required*)](#8-physical-description-required)
+- [8. Physical Description (Recommended)](#8-physical-description-required)
 - [9.  Institution/Repository and Physical Collection information (Required)](#9-institutionrepository-and-physical-collection-information-required)
 - [10. Rights (Required)](#10-rights-required)
 - [11. Abstract and other Notes (Recommended)](#11-abstract-and-other-notes-recommended)
@@ -183,10 +183,10 @@ EXAMPLES
 * black-and-white photographs
 ```
 
-### 8. Physical Description (Required*)
+### 8. Physical Description
 The Physical Description element may be used to record information about the physical features of a resource, such as the extent, dimensions, and medium.
 
-* **Extent** (Required) – Number of items, number of pages, or duration (length, such as seconds) of the resource. (May be the same whether referring to the original resource or the digital object.)
+* **Extent** – Number of items, number of pages, or duration (length, such as seconds) of the resource. (May be the same whether referring to the original resource or the digital object.)
 
 ```
 EXAMPLES
@@ -194,7 +194,7 @@ EXAMPLES
 * 95 min.
 ```
 
-* **Dimensions** (Recommended) – The measurements of the original resource, including its size or scale.
+* **Dimensions** – The measurements of the original resource, including its size or scale.
 
 ```
 EXAMPLES
