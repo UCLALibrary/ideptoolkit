@@ -182,7 +182,7 @@ Nota: el disparo de obturador tiene un cierre de bloqueo. Ábralo antes de desco
 ### COMENZAR LA CAPTURA
 Encendido de la computadora portátil y conecte la cámara a la computadora a través del cable USB3.
 
-> Si estas usando Lightroom
+> Si estás usando Lightroom
   * Abra Lightroom
 	* Cree un nuevo catálogo, nómbrelo de forma apropiada. Recuerde, este es un catálogo en Lightroom, y puede contener múltiples sesiones. Click en File (Archivo) &gt;  Tethered Capture (Captura Conectada) &gt; Start Tethered Capture (Iniciar Captura Conectada).
 ![](../assets/img/digprint/image26.jpg)
@@ -191,10 +191,10 @@ Encendido de la computadora portátil y conecte la cámara a la computadora a tr
 	* Utilice su convención de nombres de archivo en la sección "Naming" (nombramiento). Puede elegir una de las plantillas existentes, luego elija "Edit" (Editar) del menú desplegable de la plantilla para crear una plantilla de nombramiento personalizada.
 ![](../assets/img/digprint/image23.jpg)
 
-> Si estas usando Darktable
+> Si estás usando Darktable
   * Abra darktable
 	* Confirme que darktable reconozca la cámara Nikon DSC D810 (la cámara debe estar encendida)
-	* Si no se reconoce la cámara, navegue hasta la vista "mesa de luz", expanda el menú "importar" en la parte superior izquierda de la ventana y seleccione "buscar dispositivos"
+	* Si no se reconoce la cámara, navegue hasta la pestaña "mesa de luz", expanda el menú "importar" en la parte superior izquierda de la ventana y seleccione "buscar dispositivos"
 	* Cuando aparezca la cámara, seleccione "captura mediante conexión"
 	![](../assets/img/darktable/darktable1.png)
 	* O navegue hasta la vista de conexión al pasar el cursor sobre la pestaña desplegable "otro" y luego haga clic en "captura"
@@ -295,7 +295,7 @@ Algunos ejemplos de estructuras de datos incluyen organizaciones por:
 
 **Nombres de Archivo**
 
-Para convenciones de nombres de archivos, ver la Guía "Nombres de Archivo &amp; Organización": [https://uclalibrary.github.io/ideptoolkit/filenaming.html](https://uclalibrary.github.io/ideptoolkit/filenaming.html)
+Para convenciones de nombres de archivos, ver la Guía "Nombres de Archivo &amp; Organización": [https://uclalibrary.github.io/ideptoolkit/filenaming.html](https://uclalibrary.github.io/ideptoolkit/filenaming.html), o vea el documento "filenaming-spa.pdf".
 
 **Otros Tips**
 
@@ -320,9 +320,9 @@ Nota: La documentación que viene con el software entrega instrucciones paso a p
   11. Vaya al modo develop (desarrollo) en Lightroom. En White Balance (Balance de Blancos), haga click en el cuentagotas para seleccionar la muestra blanca en la referencia de color y el software debería ajustar los balances de blanco correctamente.
 
 >Para darktable
-  1. Usando Darktable, guarde la imagen que contiene en vista como un TIFF el "Color Reference Target".
+  1. Usando Darktable, abre la imagen de "Color Reference Target" y exportarla como TIFF.
   2. Abra el software ColorChecker Passport, navegue hasta el panel ICC-TIFF y arrastre la imagen TIFF
-	3. El software encontrará las muestras.
+	3. El software encontrará las referencias de color.
   4. Haga click en "Create Profile" (Crear perfil) para guardar. Nómbrelo apropiadamente para que pueda ser reconocido como un archivo de referencia.
   5. El software se guardará como un archivo .ICC, probablemente en `[user]/Libary/ColorSync/Profiles`.
 	6. Copie este archivo .ICC a `[user]/.config/darktable/color/in`.
