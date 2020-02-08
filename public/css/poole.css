@@ -216,8 +216,9 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  color: #2d2f5f;
+  border: .1rem solid #cf7d88;
+  background-color: rgb(251, 245, 244);
 }
 blockquote p:last-child {
   margin-bottom: 0;
