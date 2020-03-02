@@ -250,7 +250,7 @@ Processing includes the following:
   * Use XRite Color Checker software and reference images to correct color and apply color profiles (see section about Installing XRite Color Checker)
 3. Creating derivatives
   * Export master files in TIFF format, export other derivatives as needed
-  * Choose resolution to export at (300 - 600 ppi)
+  * Choose resolution to export at (400 - 600 ppi)
 4. Back up work
   * It is recommended that work be mirrored on a hard drive when possible
 
@@ -268,7 +268,7 @@ Processing includes the following:
 ### File Specifications at a Glance
 * File format for master images: TIFF
 * File format for derivatives: JPEG or PDF/PDFa
-* Output resolution: 300 - 600ppi
+* Output resolution: 400 - 600ppi
 * Bit depth: 8 bits per channel (24 bit total)
 * Color: RGB highlights should not exceed 250 - 250 - 250, shadows no lower than 5 - 5 - 5, check histogram for this information
 * Color space: sRGB or Adobe RGB 1998
@@ -278,7 +278,7 @@ The following is a simplified list of quality control checkpoints to consider du
 * Format  - each image is in the correct format.
 * Compression - files are compressed or left uncompressed per the project instructions
 * Bit Depth - correct bit depth has been selected (check metadata in Lightroom / Darktable)
-* Resolution - 300 - 600 ppi, 400 ppi and up for OCR purposes (check metadata in Lightroom / Darktable)
+* Resolution - 400 - 600 ppi, 400 ppi and up for OCR purposes (check metadata in Lightroom / Darktable)
 * Color - output color closely matches true color of the materials, correct color mode has been selected.
 * Orientation - all images are oriented correctly, no distortion or proportion irregularities.
 * No physical matter - no dirt, dust, etc. obstructing the view of the item.

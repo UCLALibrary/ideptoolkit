@@ -243,7 +243,7 @@ El procesamiento incluye lo siguiente:
 	* Use el software XRite Color Checker y las imágenes de referencia para corregir color y aplicar perfiles de color (ver sección sobre instalación de XRite Color Checker)
 3. Creación de derivados
 	* Exportar los archivos master en formato TIFF, exportar otros derivados si es necesario
-	* Elige la resolución para exportar a (300 - 600 ppi)
+	* Elige la resolución para exportar a (400 - 600 ppi)
 4. Respalde el trabajo
 	* Se recomienda que el trabajo tenga una copia espejo en un disco duro si es posible
 
@@ -261,7 +261,7 @@ El procesamiento incluye lo siguiente:
 ### Especificaciones de archivos a simple vista
 * Formato de archivo para másters: TIFF
 * Formato de archivo para derivados: JPEG o PDF/PDFa
-* Resolución de salida: 300 - 600ppi
+* Resolución de salida: 400 - 600ppi
 * Profundidad de bits: 8 bits por canal (24 bits en total)
 * Color: los puntos máximos de RGB no deben exceder 250 - 250 - 250, las sombras no menos de 5 - 5 - 5, revise el histograma para ver esta información.
 * Espacio de color: sRGB o Adobe RGB 1998
@@ -271,7 +271,7 @@ Lo siguiente es una lista simplificada de puntos chequeo de control de calidad a
 * Formato - cada imagen está en el formato correcto.
 * Compresión - los archivos están comprimidos o dejados sin comprimir de acuerdo a las instrucciones del proyecto
 * Profundidad de Bits - ha sido seleccionada la profundidad de bits correcta (revisar los metadatos en Lightroom / Darktable)
-* Resolución - 300 - 600 ppi, 400 ppi o más para procesos de OCR (revisar metadatos en Lightroom / Darktable)
+* Resolución - 400 - 600 ppi, 400 ppi o más para procesos de OCR (revisar metadatos en Lightroom / Darktable)
 * Color - la salida de color se acerca al color real de los materiales, el modo de color correcto ha sido seleccionado.
 * Orientación - todas las imágenes están correctamente orientadas, no hay distorsión o irregularidades en las proporciones.
 * No hay materia física - no hay polvo, mugre, etc. obstruyendo la vista del objeto.
