@@ -12,6 +12,8 @@ permalink: /digprint-arm
 
 ### Սարքավորումների ցանկ
 
+[expand]
+
 1. Nikon D810 տեսախցիկ
 ![](../assets/img/digprint/image13.png)
 
@@ -82,6 +84,8 @@ permalink: /digprint-arm
 22. Զսպանակեռիկներ, ռետինե լարեր, սարքի կապեր
 
 23. Գունավոր պաստառի թուղթ
+
+[/expand]
 
 ### Նախակորզման նախապատրաստություն
 
