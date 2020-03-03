@@ -260,7 +260,6 @@ El procesamiento incluye lo siguiente:
 
 ### Especificaciones de archivos a simple vista
 * Formato de archivo para másters: TIFF
-* Formato de archivo para derivados: JPEG o PDF/PDFa
 * Resolución de salida: 400 - 600ppi
 * Profundidad de bits: 8 bits por canal (24 bits en total)
 * Color: los puntos máximos de RGB no deben exceder 250 - 250 - 250, las sombras no menos de 5 - 5 - 5, revise el histograma para ver esta información.
