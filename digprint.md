@@ -267,7 +267,6 @@ Processing includes the following:
 
 ### File Specifications at a Glance
 * File format for master images: TIFF
-* File format for derivatives: JPEG or PDF/PDFa
 * Output resolution: 400 - 600ppi
 * Bit depth: 8 bits per channel (24 bit total)
 * Color: RGB highlights should not exceed 250 - 250 - 250, shadows no lower than 5 - 5 - 5, check histogram for this information
