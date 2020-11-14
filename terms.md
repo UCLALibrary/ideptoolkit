@@ -115,23 +115,22 @@ Where exact dates are unknown, metadata contributors should provide a range of p
 #### A. Date (human) (Recommended)
 This is a human-readable date that will display on the item view page.
 
-#### B. Date (ISO) (Required)
+#### B. Date.created [single OR start/end] (Required)
 A machine-readable date suitable for processing (e.g. search limiting, results sorting), following the format `YYYY-MM-DD` (year-month-day).
 
-For a date range in the **Date (ISO) column**, separate the starting and end dates with a forward slash `/`.
+In the metadata template spreadsheet, notice there are separate columns in the spreadsheet for a single date vs. a date range. Use the fields following the examples below:
 
 *EXAMPLES*
 
-| Date (human) | Date (ISO) |
-| -- | -- |
-| August 26, 2016 | 2016-08-26 |
-| 26 de agosto de 2016 | 2016-08-26 |
-| Aug 26, 2016 | 2016-08-02 |
-| August 2001 | 2001-08 |
-| 2013-2016 | 2013/2016 |
-| Between 1967 and 1985 | 1967/1985 |
-| 19th century | 1801/1900 |
-| July or August 1991 | 1991-07/1991-08 |
+| Date (human) | Date.created (single) | Date.created (start) | Date.created (end) |
+| -- | -- | -- | -- |
+| 1965 | 1965 | | |
+| 1967-1985 | | 1967 | 1985 |
+| August 02, 1969 | 1969-08-02 | | |
+| Between 1967 and 1985 | | 1967 | 1985 |
+| August 2001 | | 2001-08-01 | 2001-08-31 |
+| 19th century | | 1801 | 1900 |
+| July or August 1991 | | 1991-07 | 1991-08 |
 
 ### 6. Language (Required)
 The language in which the content of the resource is expressed.
